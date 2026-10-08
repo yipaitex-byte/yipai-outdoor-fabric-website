@@ -1,0 +1,22 @@
+node_modules/
+.pnpm-store/
+.next/
+out/
+*.tsbuildinfo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Vercel deployment metadata
+.vercel/
+
+# Operating system files
+.DS_Store
+
+# Common generated files
+coverage/
+npm-debug.log*
+pnpm-debug.log*
+.pnpm-debug.log*

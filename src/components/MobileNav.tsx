@@ -1,0 +1,6 @@
+'use client';
+import { useState } from 'react';
+import LocaleLink from './LocaleLink';
+import LanguageSwitcher from './LanguageSwitcher';
+import { useI18n } from '@/i18n/client';
+export default function MobileNav(){const [open,setOpen]=useState(false);const {messages:m}=useI18n();const items=[[m.navigation.home,'/'],[m.navigation.fabrics,'/fabrics'],[m.navigation.applications,'/applications'],[m.navigation.performance,'/performance'],[m.navigation.development,'/custom-development'],[m.navigation.testing,'/testing-quality'],[m.navigation.about,'/about'],[m.navigation.contact,'/contact'],[m.navigation.samples,'/request-sample']];return <><button type="button" className="mobile-nav-toggle" aria-expanded={open} aria-label={open?m.navigation.close:m.navigation.open} onClick={()=>setOpen(!open)}><span>{open?'×':'☰'}</span><small>{open?m.navigation.close:m.navigation.menu}</small></button>{open&&<nav className="mobile-nav" aria-label={m.navigation.mobileNav}>{items.map(([label,href],index)=><LocaleLink key={href} href={href} onClick={()=>setOpen(false)}><span>{String(index+1).padStart(2,'0')}</span>{label}<b>↗</b></LocaleLink>)}<div className="mobile-language"><span>{m.navigation.language}</span><LanguageSwitcher compact /></div></nav>}</>;}

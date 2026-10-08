@@ -1,0 +1,718 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "fabrics": "Vải",
+    "applications": "Ứng dụng",
+    "performance": "Tính năng",
+    "development": "Phát triển theo yêu cầu",
+    "testing": "Kiểm nghiệm & chất lượng",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "samples": "Yêu cầu mẫu",
+    "language": "Ngôn ngữ",
+    "menu": "Menu",
+    "close": "Đóng",
+    "open": "Mở điều hướng",
+    "mobileNav": "Điều hướng di động"
+  },
+  "common": {
+    "home": "Trang chủ",
+    "explore": "Khám phá",
+    "exploreAllFabrics": "Xem tất cả chất liệu",
+    "exploreAllApplications": "Xem tất cả ứng dụng",
+    "exploreTopic": "Tìm hiểu chủ đề",
+    "requestSamples": "Yêu cầu mẫu",
+    "contact": "Liên hệ YIPAI",
+    "contactUs": "Liên hệ với chúng tôi",
+    "whatsapp": "WhatsApp",
+    "email": "Gửi email",
+    "emailLabel": "Email",
+    "company": "Công ty",
+    "website": "Website",
+    "request": "Yêu cầu",
+    "sendInquiry": "Gửi yêu cầu",
+    "shareProject": "Chia sẻ dự án",
+    "startProject": "Bắt đầu dự án",
+    "discussDevelopment": "Trao đổi phát triển",
+    "discussRequirements": "Trao đổi yêu cầu",
+    "testingQuality": "Kiểm nghiệm & chất lượng",
+    "backHome": "Back to Home",
+    "ctaEyebrow": "Cùng phát triển cho hoạt động ngoài trời",
+    "ctaTitle": "Cùng tìm chất liệu phù hợp cho bộ sưu tập tiếp theo.",
+    "ctaText": "Chia sẻ loại trang phục, mục tiêu tính năng và cấu trúc mong muốn. Đội ngũ sẽ tư vấn giải pháp phù hợp.",
+    "ctaRequestText": "Send your project requirements with our dedicated sample request form.",
+    "whatsappAria": "Nhắn tin WhatsApp cho YIPAI Textile",
+    "whatsappTitle": "Chat với YIPAI trên WhatsApp",
+    "footerLine1": "Vải outdoor hiệu năng cao",
+    "footerLine2": "cho trang phục kỹ thuật",
+    "footerExplore": "Khám phá",
+    "footerConnect": "Liên hệ",
+    "footerTagline": "Sẵn sàng cho môi trường ngoài trời.",
+    "arrow": "↗",
+    "notFoundTitle": "Không tìm thấy trang",
+    "notFoundText": "Trang bạn yêu cầu không tồn tại.",
+    "breadcrumb": "Điều hướng đường dẫn",
+    "organizationDescription": "Nhà sản xuất vải ngoài trời hiệu năng cao và doanh nghiệp sản xuất dệt may tích hợp."
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "eyebrow": "VẬT LIỆU HIỆU NĂNG",
+          "title": "Vải outdoor|hiệu năng cao",
+          "copy": "Vải outdoor cho trang phục trượt tuyết, leo núi, áo khoác và may mặc kỹ thuật.",
+          "alt": "Close-up of a technical outdoor fabric"
+        },
+        {
+          "eyebrow": "SẢN XUẤT DỆT MAY",
+          "title": "Từ sợi|thành vải",
+          "copy": "Khám phá quy trình tạo vải và hoàn tất chức năng.",
+          "alt": "Textile production equipment in a bright workshop"
+        },
+        {
+          "eyebrow": "KIỂM NGHIỆM & CHẤT LƯỢNG",
+          "title": "Kiểm nghiệm|tính năng",
+          "copy": "Trao đổi với đội ngũ về phương pháp thử và mục tiêu tính năng.",
+          "alt": "YIPAI fabric testing laboratory equipment"
+        }
+      ],
+      "pillars": "Chống thấm · Thoáng khí · Chống mài mòn · Co giãn",
+      "meta": "YIPAI TEXTILE / PERFORMANCE MATERIALS",
+      "controls": "Choose hero slide",
+      "primary": "Khám phá vải",
+      "secondary": "Yêu cầu mẫu"
+    },
+    "featured": {
+      "eyebrow": "THƯ VIỆN VẬT LIỆU",
+      "title": "Vải chức năng, danh mục rõ ràng",
+      "text": "Khám phá các dòng vải chủ lực cho trang phục kỹ thuật."
+    },
+    "applications": {
+      "eyebrow": "ỨNG DỤNG",
+      "title": "Bắt đầu từ sản phẩm của bạn",
+      "text": "Tìm giải pháp vải phù hợp cho bộ sưu tập."
+    },
+    "ctaTitle": "Cùng tìm chất liệu phù hợp cho bộ sưu tập tiếp theo.",
+    "ctaText": "Chia sẻ loại trang phục, mục tiêu tính năng và cấu trúc mong muốn.",
+    "development": {
+      "eyebrow": "PHÁT TRIỂN VẢI THEO YÊU CẦU",
+      "title": "Từ yêu cầu sản phẩm đến mẫu vải.",
+      "text": "Chia sẻ ứng dụng, cấu trúc và mục tiêu tính năng. Cùng đội ngũ xây dựng hướng vật liệu phù hợp cho bộ sưu tập.",
+      "button": "Bắt đầu dự án phát triển"
+    },
+    "technical": {
+      "eyebrow": "TÍNH NĂNG KỸ THUẬT",
+      "title": "Phát triển theo yêu cầu thực tế.",
+      "text": "Tính năng phụ thuộc vào cấu trúc vải, hoàn tất và điều kiện sử dụng của trang phục.",
+      "items": [
+        "Bảo vệ thời tiết",
+        "Thoáng khí",
+        "Chống mài mòn",
+        "Co giãn & hồi phục"
+      ]
+    },
+    "testing": {
+      "eyebrow": "KIỂM NGHIỆM & CHẤT LƯỢNG",
+      "title": "Đánh giá theo tiêu chí quan trọng.",
+      "text": "Trao đổi phương pháp thử và mục tiêu phù hợp với sản phẩm và thị trường của bạn.",
+      "button": "Tìm hiểu kiểm nghiệm"
+    },
+    "why": {
+      "eyebrow": "LÝ DO CHỌN YIPAI",
+      "title": "Đối tác thiết thực về vải chức năng.",
+      "text": "Từ tư vấn vật liệu, làm mẫu đến sản xuất, giải pháp luôn bám sát yêu cầu sản phẩm.",
+      "items": [
+        "Tư vấn vật liệu theo ứng dụng",
+        "Mục tiêu tính năng và cấu trúc theo yêu cầu",
+        "Phối hợp làm mẫu và sản xuất",
+        "Cung ứng vải B2B quốc tế"
+      ]
+    }
+  },
+  "pages": {
+    "fabrics": {
+      "seoTitle": "Vải outdoor cho trang phục kỹ thuật",
+      "seoDescription": "Khám phá vải chống thấm, thoáng khí, co giãn và cấu trúc 2 hoặc 3 lớp.",
+      "heroEyebrow": "BỘ SƯU TẬP VẢI / DỆT MAY CHỨC NĂNG",
+      "heroTitle": "Giải pháp vải|cho từng lớp trang phục.",
+      "heroText": "Khám phá các dòng vải chống thấm, nhanh khô, làm mát, chống UV và vải tráng phủ cho trang phục kỹ thuật.",
+      "libraryEyebrow": "THƯ VIỆN VẢI",
+      "libraryTitle": "Khám phá theo dòng vải",
+      "libraryText": "Tìm hiểu bề mặt và cấu trúc vải, sau đó chia sẻ mục tiêu trang phục và tính năng cần đạt.",
+      "categoryLinks": [
+        "Chống thời tiết",
+        "Nhanh khô & làm mát",
+        "Vải chuyên dụng"
+      ],
+      "groups": [
+        "Chống thời tiết",
+        "Nhanh khô & làm mát",
+        "Vải chuyên dụng"
+      ],
+      "recommendation": "Cần tư vấn? Yêu cầu mẫu"
+    },
+    "applications": {
+      "seoTitle": "Vải cho trang phục outdoor",
+      "seoDescription": "Giải pháp vải cho đồ trượt tuyết, leo núi, áo khoác, quần outdoor và đồ bảo hộ.",
+      "heroEyebrow": "ỨNG DỤNG / VẬT LIỆU TRONG THỰC TẾ",
+      "heroTitle": "Thiết kế cho|chuyển động của bạn.",
+      "heroText": "Khám phá các ứng dụng trang phục và tính năng vải cần thiết cho từng nhu cầu.",
+      "sectionEyebrow": "ỨNG DỤNG TRANG PHỤC",
+      "sectionTitle": "Bắt đầu từ sản phẩm",
+      "sectionText": "Chọn danh mục để tìm hiểu cấu trúc vải và phương án hoàn tất phù hợp."
+    },
+    "performance": {
+      "seoTitle": "Tính năng vải outdoor",
+      "seoDescription": "Tìm hiểu khả năng thoáng khí, chống thấm, chống mài mòn và co giãn của vải kỹ thuật.",
+      "heroEyebrow": "TÍNH NĂNG / PHÁT TRIỂN THEO YÊU CẦU",
+      "heroTitle": "Hiệu năng|đúng mục đích.",
+      "heroText": "Tìm hiểu các đặc tính vải tạo nên sự thoải mái và bảo vệ cho trang phục outdoor kỹ thuật.",
+      "sectionEyebrow": "THƯ VIỆN KỸ THUẬT",
+      "sectionTitle": "Hiểu rõ lựa chọn vật liệu",
+      "sectionText": "Hiệu năng phụ thuộc vào cấu trúc vải, hoàn tất, thiết kế trang phục và mục đích sử dụng."
+    },
+    "development": {
+      "seoTitle": "Phát triển vải outdoor theo yêu cầu | YIPAI Textile",
+      "seoDescription": "Phát triển vải theo ứng dụng, thành phần, định lượng, cấu trúc và mục tiêu tính năng.",
+      "heroEyebrow": "PHÁT TRIỂN CÙNG ĐỐI TÁC",
+      "heroTitle": "Phát triển vải outdoor|theo yêu cầu",
+      "heroText": "Từ yêu cầu sản phẩm đến định hướng vật liệu và mẫu vải phù hợp.",
+      "briefEyebrow": "TỪ THÔNG SỐ ĐẾN SẢN XUẤT",
+      "briefTitle": "Chia sẻ yêu cầu.|Chúng tôi cùng triển khai.",
+      "briefText": "Chia sẻ thông tin dự án. Đội ngũ có thể tư vấn vật liệu, phát triển phòng lab và làm mẫu theo sản phẩm cùng mục tiêu tính năng.",
+      "requirements": [
+        "Ứng dụng mục tiêu",
+        "Thành phần xơ sợi",
+        "Định lượng và khổ hữu dụng",
+        "Co giãn và hồi phục",
+        "Mục tiêu chống thấm và thoáng khí",
+        "Cảm giác tay và yêu cầu chống mài mòn",
+        "Màu sắc và hoàn tất"
+      ],
+      "flowEyebrow": "QUY TRÌNH PHÁT TRIỂN",
+      "flowTitle": "Lộ trình rõ ràng đến mẫu vải",
+      "steps": [
+        "Yêu cầu",
+        "Tư vấn",
+        "Phát triển lab",
+        "Mẫu",
+        "Kiểm nghiệm",
+        "Sản xuất hàng loạt"
+      ],
+      "projectStatus": "Theo dự án",
+      "collaborateEyebrow": "CÁCH CHÚNG TÔI HỢP TÁC",
+      "processTitle": "Từ yêu cầu đến sản xuất",
+      "startEyebrow": "BẮT ĐẦU TỪ THÔNG TIN HIỆN CÓ",
+      "startTitle": "Mỗi dự án bắt đầu bằng trao đổi.",
+      "startText": "Một số yêu cầu có thể chưa chốt. Hãy chia sẻ loại trang phục và môi trường sử dụng để cùng làm rõ đề bài.",
+      "ctaTitle": "Bạn đã có yêu cầu phát triển vải?",
+      "ctaText": "Bắt đầu với ứng dụng, định hướng vật liệu và mục tiêu tính năng."
+    },
+    "testing": {
+      "seoTitle": "Kiểm nghiệm và chất lượng vải kỹ thuật | YIPAI Textile",
+      "seoDescription": "Trao đổi phương pháp thử cho vải chống thấm, thoáng khí, chống mài mòn và co giãn.",
+      "heroEyebrow": "KIỂM NGHIỆM & CHẤT LƯỢNG / ĐÁNH GIÁ THEO DỰ ÁN",
+      "heroTitle": "Đánh giá đúng|điều cần thiết.",
+      "heroText": "Vải kỹ thuật có thể được đánh giá theo yêu cầu áp dụng và phương pháp đã thống nhất.",
+      "approachEyebrow": "PHƯƠNG ÁN ĐÃ THỐNG NHẤT",
+      "approachTitle": "Bắt đầu từ yêu cầu.",
+      "approachText": "Phương pháp thử và tiêu chí chấp nhận phụ thuộc vào sản phẩm, thị trường và mục đích sử dụng. Hãy chia sẻ yêu cầu trong quá trình phát triển để lên kế hoạch đánh giá.",
+      "disclaimer": "Trang này chỉ mô tả các hạng mục đánh giá, không công bố chứng nhận, kết quả thử nghiệm hay trạng thái tuân thủ cụ thể.",
+      "method": "Trao đổi phương pháp",
+      "planEyebrow": "THÔNG TIN LẬP KẾ HOẠCH THỬ",
+      "faq": [
+        [
+          "Phương pháp áp dụng",
+          "Cho biết phương pháp thử hoặc tiêu chuẩn mà khách hàng yêu cầu."
+        ],
+        [
+          "Tiêu chí mục tiêu",
+          "Chia sẻ ngưỡng tính năng và tiêu chí chấp nhận của sản phẩm."
+        ],
+        [
+          "Loại mẫu",
+          "Xác nhận cấu trúc, hoàn tất và định dạng mẫu cần đánh giá."
+        ],
+        [
+          "Giai đoạn dự án",
+          "Phối hợp kiểm nghiệm trong giai đoạn phát triển, duyệt mẫu hoặc sản xuất."
+        ]
+      ],
+      "ctaTitle": "Bạn cần trao đổi về yêu cầu thử nghiệm?",
+      "ctaText": "Gửi kèm phương pháp và tiêu chí mục tiêu trong yêu cầu vật liệu."
+    },
+    "about": {
+      "seoTitle": "Giới thiệu YIPAI Textile | Vải outdoor",
+      "seoDescription": "Tìm hiểu YIPAI Textile, nhà sản xuất vải outdoor kỹ thuật tại Tô Châu, Trung Quốc.",
+      "heroEyebrow": "SUZHOU YIPAI TEXTILE CO., LTD.",
+      "heroTitle": "Vật liệu cho|hoạt động ngoài trời.",
+      "heroText": "Vải outdoor chức năng dành cho đội ngũ phát triển trang phục sử dụng trong môi trường khắc nghiệt.",
+      "whoEyebrow": "VỀ CHÚNG TÔI",
+      "whoTitle": "Vải outdoor hiệu năng cho trang phục kỹ thuật.",
+      "paragraphs": [
+        "YIPAI TEXTILE là nhà sản xuất vải outdoor hiệu năng và đối tác dệt may tích hợp tại Tô Châu, Trung Quốc.",
+        "Chúng tôi làm việc với thương hiệu outdoor, nhà may và đơn vị thu mua quốc tế để phát triển vật liệu cho trang phục trượt tuyết, leo núi, áo khoác shell, quần outdoor và đồ bảo hộ lao động.",
+        "Danh mục gồm cấu trúc chống thấm thoáng khí, vải nylon co giãn, tùy chọn chống mài mòn và hoàn tất chống thấm không PFC. Thông số được xây dựng theo từng ứng dụng."
+      ],
+      "benefitEyebrow": "ĐỐI TÁC VẬT LIỆU",
+      "benefitTitle": "Vì sao hợp tác với YIPAI?",
+      "benefitText": "Đối tác dệt may tích hợp cho đội ngũ phát triển sản phẩm outdoor chức năng.",
+      "benefits": [
+        "Phát triển vải outdoor",
+        "Giải pháp vải chức năng",
+        "Thông số tùy chỉnh",
+        "Làm mẫu vải",
+        "Hỗ trợ sản xuất",
+        "Cung ứng B2B quốc tế"
+      ],
+      "benefitCardText": "Trao đổi yêu cầu vật liệu cùng đội ngũ YIPAI."
+    },
+    "contact": {
+      "seoTitle": "Liên hệ YIPAI Textile",
+      "seoDescription": "Liên hệ SUZHOU YIPAI TEXTILE CO., LTD. về vải outdoor, mẫu thử và phát triển sản phẩm.",
+      "eyebrow": "LIÊN HỆ / TÔ CHÂU, TRUNG QUỐC",
+      "title": "Cùng trao đổi về|vật liệu.",
+      "intro": "Chia sẻ sản phẩm bạn đang phát triển. Chúng tôi có thể trao đổi về vải outdoor, yêu cầu kỹ thuật và mẫu thử.",
+      "company": "Công ty",
+      "ctaTitle": "Bạn đã sẵn sàng phát triển vải?",
+      "ctaText": "Gửi yêu cầu dự án qua biểu mẫu yêu cầu mẫu chuyên dụng."
+    },
+    "requestSample": {
+      "seoTitle": "Yêu cầu mẫu vải outdoor | YIPAI Textile",
+      "seoDescription": "Yêu cầu mẫu và chia sẻ ứng dụng, định lượng, cấu trúc cùng mục tiêu tính năng.",
+      "eyebrow": "VẢI YIPAI / YÊU CẦU MẪU",
+      "title": "Cùng tìm hướng|vật liệu phù hợp.",
+      "intro": "Chia sẻ ứng dụng và mục tiêu tính năng. Thông tin càng chi tiết, chúng tôi càng dễ tư vấn đúng nhu cầu.",
+      "quickContact": "Bạn muốn trao đổi nhanh?"
+    },
+    "productDetail": {
+      "eyebrow": "VẢI YIPAI",
+      "overviewEyebrow": "TỔNG QUAN SẢN PHẨM",
+      "overviewTitle": "Tính năng theo yêu cầu sản phẩm.",
+      "keyPerformance": "Tính năng chính",
+      "applications": "Ứng dụng phù hợp",
+      "specEyebrow": "THÔNG SỐ KỸ THUẬT",
+      "specTitle": "Phát triển theo yêu cầu",
+      "specs": [
+        "Thành phần",
+        "Định lượng",
+        "Khổ hữu dụng",
+        "Cấu trúc",
+        "Mục tiêu chống thấm",
+        "Mục tiêu thoáng khí",
+        "Hoàn tất"
+      ],
+      "toDefine": "Xác định theo dự án",
+      "customized": "Thông số có thể điều chỉnh theo yêu cầu ứng dụng.",
+      "shareSpec": "Chia sẻ mục tiêu để đội ngũ trao đổi phương án phù hợp.",
+      "pfcContext": "Tùy chọn không PFC hỗ trợ định hướng hoàn tất chống thấm không fluor. Cần xem xét đồng thời độ chống thấm, thoáng khí và ứng dụng.",
+      "generalContext": "Bắt đầu từ trang phục, môi trường sử dụng và mục tiêu tính năng. YIPAI có thể trao đổi cấu trúc vải và phương án phát triển phù hợp.",
+      "finishingEyebrow": "HOÀN TẤT & KIỂM NGHIỆM",
+      "finishingTitle": "Phát triển và đánh giá theo yêu cầu.",
+      "finishingText": "Hoàn tất và kiểm nghiệm được thống nhất theo trang phục cùng mục tiêu dự án.",
+      "projectLed": "Đánh giá theo dự án",
+      "finishingOptions": "Phương án hoàn tất",
+      "defineApplication": "Xác định theo ứng dụng",
+      "testMethod": "Phương pháp thử",
+      "agreeProject": "Thống nhất theo dự án",
+      "acceptance": "Tiêu chí chấp nhận",
+      "provideTarget": "Cung cấp mục tiêu",
+      "relatedEyebrow": "KHÁM PHÁ THÊM",
+      "relatedTitle": "Hướng vật liệu liên quan",
+      "ctaText": "Chia sẻ ứng dụng, cấu trúc và mục tiêu tính năng của dự án."
+    },
+    "applicationDetail": {
+      "eyebrow": "ỨNG DỤNG",
+      "builtEyebrow": "PHÁT TRIỂN THEO ỨNG DỤNG",
+      "builtTitle": "Vật liệu phù hợp môi trường sử dụng.",
+      "bullets": [
+        "Tùy chọn chống thấm",
+        "Thoáng khí và truyền hơi ẩm",
+        "Chống mài mòn theo mục đích",
+        "Cản gió và co giãn",
+        "Phát triển cấu trúc và hoàn tất"
+      ],
+      "briefEyebrow": "YÊU CẦU PHÁT TRIỂN",
+      "briefTitle": "Bạn đang phát triển sản phẩm nào?",
+      "briefFields": [
+        "Môi trường mục tiêu",
+        "Loại trang phục",
+        "Định lượng mục tiêu",
+        "Co giãn và linh hoạt",
+        "Bảo vệ thời tiết",
+        "Màu sắc và hoàn tất"
+      ],
+      "defineTogether": "Cùng xác định",
+      "customizable": "Thông số có thể điều chỉnh theo yêu cầu ứng dụng.",
+      "categoriesEyebrow": "NHÓM VẢI PHÙ HỢP",
+      "categoryTitle": "Khám phá vải cho {name}",
+      "ctaTitle": "Bạn cần vải cho {name}?",
+      "ctaText": "Chia sẻ mục tiêu tính năng và cấu trúc. Chúng tôi sẽ tư vấn giải pháp phù hợp.",
+      "sampleButton": "Yêu cầu mẫu cho {name}",
+      "context": {
+        "ski-wear": "Ski garments may combine technical shell construction with weather protection, breathability, wind protection and mobility. Share the expected conditions, garment zones and low-temperature use context for fabric selection.",
+        "hiking": "Hiking apparel may need to balance weather protection, moisture vapor movement, abrasion requirements and comfort through sustained movement in changing conditions.",
+        "outdoor-jackets": "Outdoor jackets range from light layers to technical shells. Define the intended layering system, weather exposure, hand feel and construction before selecting a fabric.",
+        "outdoor-pants": "Outdoor pants briefs often consider freedom of movement, recovery, abrasion by wear zone and the level of weather protection required.",
+        "technical-apparel": "Technical apparel requirements depend on garment design and intended use. Share target performance, construction, weight and finishing needs to shape material development.",
+        "workwear": "Workwear fabric requirements vary by job, environment and garment. Share the conditions of use, durability priorities and any applicable evaluation requirements."
+      }
+    },
+    "performanceDetail": {
+      "eyebrow": "TÍNH NĂNG / HƯỚNG DẪN KỸ THUẬT",
+      "understandingEyebrow": "TÌM HIỂU TÍNH NĂNG",
+      "understandingTitle": "Hiệu năng là một hệ thống.",
+      "whatToConsider": "Các yếu tố cần xem xét",
+      "bodySuffix": "Số lớp, lựa chọn xơ sợi, hoàn tất và kết cấu trang phục đều ảnh hưởng đến tính năng khi sử dụng.",
+      "bodyEnd": "Cùng đội ngũ sản phẩm xác định mục tiêu và phương pháp thử. YIPAI có thể trao đổi hướng vật liệu; kết quả chỉ được xác nhận sau khi thống nhất và đánh giá.",
+      "parametersEyebrow": "THÔNG SỐ PHÁT TRIỂN",
+      "parametersTitle": "Xác định mục đích sử dụng",
+      "parameters": [
+        "Ứng dụng",
+        "Cấu trúc vải",
+        "Mục tiêu tính năng",
+        "Phương pháp thử",
+        "Định lượng và cảm giác tay",
+        "Phương án hoàn tất"
+      ],
+      "parameterStatus": "Theo yêu cầu dự án",
+      "ctaTitle": "Trao đổi yêu cầu vật liệu",
+      "ctaText": "Cho biết ứng dụng, mục tiêu tính năng và phương pháp đánh giá mong muốn."
+    }
+  },
+  "form": {
+    "name": "Họ tên *",
+    "company": "Công ty *",
+    "businessEmail": "Email công việc *",
+    "country": "Quốc gia *",
+    "application": "Ứng dụng *",
+    "composition": "Thành phần",
+    "weight": "Định lượng",
+    "weightPlaceholder": "ví dụ: định lượng mục tiêu hoặc khoảng",
+    "width": "Khổ hữu dụng",
+    "waterproof": "Yêu cầu chống thấm",
+    "breathability": "Yêu cầu thoáng khí",
+    "stretch": "Yêu cầu co giãn",
+    "finish": "Yêu cầu hoàn tất",
+    "message": "Lời nhắn",
+    "help": "Chúng tôi có thể hỗ trợ gì?",
+    "messagePlaceholder": "Chia sẻ dự án, mục tiêu tính năng hoặc câu hỏi của bạn.",
+    "consent": "Khi gửi biểu mẫu, bạn đồng ý để YIPAI Textile sử dụng thông tin nhằm phản hồi yêu cầu.",
+    "select": "Chọn ứng dụng",
+    "submitSamples": "Yêu cầu mẫu",
+    "submitInquiry": "Gửi yêu cầu",
+    "successTitle": "Yêu cầu của bạn đã sẵn sàng.",
+    "successBody": "Ứng dụng email sẽ mở với thông tin dự án đã điền. Hãy gửi email để hoàn tất yêu cầu. Nếu không mở được, vui lòng gửi tới",
+    "applicationOptions": [
+      "Trang phục trượt tuyết",
+      "Leo núi",
+      "Áo khoác outdoor",
+      "Quần outdoor",
+      "Đồ bảo hộ lao động",
+      "Khác"
+    ]
+  },
+  "content": {
+    "products": {
+      "waterproof-breathable": {
+        "name": "Vải chống thấm, thoáng khí",
+        "short": "Bảo vệ thời tiết cho các hoạt động ngoài trời.",
+        "category": "Chống thời tiết",
+        "features": [
+          "Chống thấm",
+          "Thoáng khí",
+          "Cản gió"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski wear",
+          "Hiking"
+        ]
+      },
+      "3-layer": {
+        "name": "Vải chống thấm thoáng khí 3 lớp",
+        "short": "Cấu trúc ba lớp bảo vệ cho áo khoác kỹ thuật.",
+        "category": "Cấu trúc 3 lớp",
+        "features": [
+          "Chống thấm",
+          "Thoáng khí",
+          "Chống mài mòn"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski jackets",
+          "Technical apparel"
+        ]
+      },
+      "2-layer": {
+        "name": "Vải outdoor 2 lớp",
+        "short": "Giải pháp bảo vệ linh hoạt cho trang phục outdoor và kỹ thuật.",
+        "category": "Cấu trúc 2 lớp",
+        "features": [
+          "Bảo vệ thời tiết",
+          "Tùy chọn nhẹ",
+          "Hoàn tất theo yêu cầu"
+        ],
+        "applications": [
+          "Outdoor jackets",
+          "Hiking",
+          "Workwear"
+        ]
+      },
+      "nylon-4-way-stretch": {
+        "name": "Vải nylon co giãn 4 chiều",
+        "short": "Hỗ trợ chuyển động với độ co giãn và hồi phục cân bằng.",
+        "category": "Vải outdoor co giãn",
+        "features": [
+          "Co giãn 4 chiều",
+          "Hồi phục tốt",
+          "Tùy chọn nhanh khô"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Ski wear"
+        ]
+      },
+      "pfc-free": {
+        "name": "Vải chống thấm không PFC",
+        "short": "Tùy chọn hoàn tất chống thấm không chứa fluor cho dòng outdoor.",
+        "category": "Chống thấm nước",
+        "features": [
+          "DWR không PFC",
+          "Tùy chọn thoáng khí",
+          "Phát triển theo yêu cầu"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Hiking",
+          "Outdoor apparel"
+        ]
+      },
+      "ski-wear": {
+        "name": "Vải may trang phục trượt tuyết",
+        "short": "Vải chức năng cho áo khoác và quần trượt tuyết.",
+        "category": "Vải theo ứng dụng",
+        "features": [
+          "Tùy chọn chống thấm",
+          "Cản gió",
+          "Chống mài mòn"
+        ],
+        "applications": [
+          "Ski jackets",
+          "Ski pants",
+          "Snow apparel"
+        ]
+      },
+      "quick-dry": {
+        "name": "Vải nylon co giãn nhanh khô",
+        "short": "Vải dệt nhẹ cho trang phục vận động và quần outdoor.",
+        "category": "Quản lý độ ẩm",
+        "features": [
+          "Nhanh khô",
+          "Nylon co giãn",
+          "Dệt nhẹ"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Technical apparel"
+        ]
+      },
+      "cooling-mesh": {
+        "name": "Vải lưới làm mát nhanh khô",
+        "short": "Cấu trúc lưới thoáng khí cho trang phục thể thao và mùa nóng.",
+        "category": "Lưới làm mát",
+        "features": [
+          "Cấu trúc lưới",
+          "Nhanh khô",
+          "Tùy chọn co giãn"
+        ],
+        "applications": [
+          "Sportswear",
+          "Base layers",
+          "Warm-weather apparel"
+        ]
+      },
+      "uv-protection": {
+        "name": "Vải chống tia UV",
+        "short": "Vải nhẹ cho trang phục outdoor chống nắng.",
+        "category": "Chống nắng",
+        "features": [
+          "Tùy chọn nhẹ",
+          "Nhanh khô",
+          "Trang phục outdoor"
+        ],
+        "applications": [
+          "Sun shirts",
+          "Light jackets",
+          "Summer apparel"
+        ]
+      },
+      "cooling-fabric": {
+        "name": "Vải outdoor tạo cảm giác mát",
+        "short": "Vải dệt nhẹ cho áo và quần outdoor mùa nóng.",
+        "category": "Cảm giác mát",
+        "features": [
+          "Cảm giác mát",
+          "Tùy chọn co giãn",
+          "Nhanh khô"
+        ],
+        "applications": [
+          "Outdoor shirts",
+          "Hiking pants",
+          "Summer apparel"
+        ]
+      },
+      "flame-retardant": {
+        "name": "Vải Oxford tráng phủ chống cháy",
+        "short": "Vải Oxford phủ cho trang phục bảo hộ và thiết bị outdoor.",
+        "category": "Vải bảo hộ",
+        "features": [
+          "Cấu trúc Oxford",
+          "Tùy chọn tráng phủ",
+          "Xác nhận tiêu chuẩn thử"
+        ],
+        "applications": [
+          "Protective apparel",
+          "Rainwear",
+          "Outdoor equipment"
+        ]
+      }
+    },
+    "applications": {
+      "ski-wear": {
+        "name": "Trang phục trượt tuyết",
+        "title": "Vải chức năng cho trang phục trượt tuyết",
+        "description": "Giải pháp cho áo khoác và quần trượt tuyết, cân bằng khả năng bảo vệ thời tiết, thoáng khí, chống mài mòn và linh hoạt."
+      },
+      "hiking": {
+        "name": "Leo núi",
+        "title": "Vải kỹ thuật cho trang phục leo núi",
+        "description": "Cấu trúc vải cho áo khoác và quần leo núi, phù hợp thời tiết thay đổi, vận động liên tục và hành trình dài."
+      },
+      "outdoor-jackets": {
+        "name": "Áo khoác outdoor",
+        "title": "Vải cho áo khoác outdoor và shell",
+        "description": "Phát triển áo khoác với cấu trúc chống thấm, thoáng khí và cản gió phù hợp."
+      },
+      "outdoor-pants": {
+        "name": "Quần outdoor",
+        "title": "Vải cho quần outdoor",
+        "description": "Phát triển quần outdoor chú trọng co giãn, hồi phục, chống mài mòn và bảo vệ thời tiết."
+      },
+      "technical-apparel": {
+        "name": "Trang phục kỹ thuật",
+        "title": "Giải pháp vải cho trang phục kỹ thuật",
+        "description": "Khám phá cấu trúc vải chức năng và phương án phát triển cho trang phục kỹ thuật."
+      },
+      "workwear": {
+        "name": "Đồ bảo hộ lao động",
+        "title": "Vải chức năng cho đồ bảo hộ lao động",
+        "description": "Giải pháp bền chắc, điều chỉnh theo môi trường làm việc và yêu cầu trang phục."
+      }
+    },
+    "performances": {
+      "breathability": {
+        "name": "Thoáng khí",
+        "title": "Vải outdoor thoáng khí cao",
+        "description": "Khả năng thoáng khí mô tả sự dịch chuyển hơi ẩm qua hệ vải, phụ thuộc vào cấu trúc, màng và hoàn tất.",
+        "points": [
+          "Truyền hơi ẩm",
+          "Lựa chọn cấu trúc và số lớp",
+          "Phát triển theo ứng dụng"
+        ]
+      },
+      "waterproof": {
+        "name": "Chống thấm",
+        "title": "Giải pháp vải chống thấm outdoor",
+        "description": "Khả năng chống thấm phụ thuộc vào toàn bộ cấu trúc vải và mục đích sử dụng. Cần xác định mục tiêu sớm để định hướng phát triển.",
+        "points": [
+          "Bảo vệ thời tiết",
+          "Điều kiện đường may và trang phục",
+          "Thử nghiệm theo yêu cầu thống nhất"
+        ]
+      },
+      "abrasion-resistance": {
+        "name": "Chống mài mòn",
+        "title": "Vải outdoor chống mài mòn",
+        "description": "Yêu cầu mài mòn thay đổi theo vùng sử dụng và mục đích. Cấu trúc vải và phương pháp thử có thể được trao đổi theo đề bài.",
+        "points": [
+          "Lựa chọn vật liệu",
+          "Yêu cầu theo ứng dụng",
+          "Thử theo phương pháp thống nhất"
+        ]
+      },
+      "stretch-recovery": {
+        "name": "Co giãn và hồi phục",
+        "title": "Độ co giãn và hồi phục cho trang phục outdoor",
+        "description": "Co giãn và hồi phục hỗ trợ chuyển động. Xơ sợi, cấu trúc và hoàn tất định hình cảm giác cùng đặc tính của vải.",
+        "points": [
+          "Tùy chọn co giãn 4 chiều",
+          "Khả năng hồi phục",
+          "Cảm giác tay và phom dáng"
+        ]
+      }
+    },
+    "performanceFeatures": [
+      {
+        "title": "High Breathability",
+        "text": "Fabric systems can be developed with moisture vapor movement in mind, based on intended activity and construction."
+      },
+      {
+        "title": "Waterproof Protection",
+        "text": "Waterproof options support shell applications; targets and evaluation methods can be agreed for each brief."
+      },
+      {
+        "title": "Abrasion Resistance",
+        "text": "Select constructions with the intended wear zones and outdoor conditions in mind."
+      },
+      {
+        "title": "Stretch & Recovery",
+        "text": "Stretch options support mobility, with fabric selection guided by fit and recovery requirements."
+      }
+    ],
+    "testingCategories": [
+      "Thử nghiệm chống thấm",
+      "Thử nghiệm thoáng khí",
+      "Thử nghiệm mài mòn"
+    ],
+    "processSteps": [
+      "Tell Us Your Requirements",
+      "Fabric Recommendation",
+      "Lab Development",
+      "Sample Approval",
+      "Bulk Production"
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "fabrics": "Fabrics",
+    "applications": "Applications",
+    "performance": "Performance",
+    "custom-development": "Custom Development",
+    "testing-quality": "Testing & Quality",
+    "about": "About",
+    "contact": "Contact",
+    "request-sample": "Request Samples",
+    "waterproof-breathable": "Waterproof Breathable",
+    "3-layer": "3-Layer",
+    "2-layer": "2-Layer",
+    "nylon-4-way-stretch": "Nylon 4-Way Stretch",
+    "pfc-free": "PFC-Free",
+    "ski-wear": "Ski Wear",
+    "hiking": "Hiking",
+    "outdoor-jackets": "Outdoor Jackets",
+    "outdoor-pants": "Outdoor Pants",
+    "technical-apparel": "Technical Apparel",
+    "workwear": "Workwear",
+    "breathability": "Breathability",
+    "waterproof": "Waterproof",
+    "abrasion-resistance": "Abrasion Resistance",
+    "stretch-recovery": "Stretch & Recovery"
+  },
+  "seo": {
+    "homeTitle": "Vải outdoor hiệu năng cao | YIPAI Textile",
+    "homeDescription": "Vải chức năng cho trang phục trượt tuyết, leo núi và may mặc kỹ thuật. Cùng YIPAI phát triển vải chống thấm, thoáng khí và co giãn."
+  }
+}

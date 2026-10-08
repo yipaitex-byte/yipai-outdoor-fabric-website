@@ -1,0 +1,718 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "fabrics": "Stoffe",
+    "applications": "Anwendungen",
+    "performance": "Performance",
+    "development": "Individuelle Entwicklung",
+    "testing": "Prüfung & Qualität",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "samples": "Muster anfragen",
+    "language": "Sprache",
+    "menu": "Menü",
+    "close": "Schließen",
+    "open": "Navigation öffnen",
+    "mobileNav": "Mobile Navigation"
+  },
+  "common": {
+    "home": "Startseite",
+    "explore": "Entdecken",
+    "exploreAllFabrics": "Alle Stoffe ansehen",
+    "exploreAllApplications": "Alle Anwendungen ansehen",
+    "exploreTopic": "Thema ansehen",
+    "requestSamples": "Muster anfragen",
+    "contact": "YIPAI kontaktieren",
+    "contactUs": "Kontaktieren Sie uns",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail schreiben",
+    "emailLabel": "E-Mail",
+    "company": "Unternehmen",
+    "website": "Website",
+    "request": "Anfragen",
+    "sendInquiry": "Anfrage senden",
+    "shareProject": "Projekt teilen",
+    "startProject": "Projekt starten",
+    "discussDevelopment": "Entwicklung besprechen",
+    "discussRequirements": "Anforderungen besprechen",
+    "testingQuality": "Prüfung & Qualität",
+    "backHome": "Back to Home",
+    "ctaEyebrow": "Gemeinsam für Outdoor",
+    "ctaTitle": "Finden wir den passenden Stoff für Ihre nächste Kollektion.",
+    "ctaText": "Teilen Sie uns Bekleidung, Leistungsziel und Konstruktion mit. Unser Team unterstützt Sie bei der Auswahl geeigneter Stoffe.",
+    "ctaRequestText": "Send your project requirements with our dedicated sample request form.",
+    "whatsappAria": "YIPAI Textile per WhatsApp kontaktieren",
+    "whatsappTitle": "YIPAI auf WhatsApp kontaktieren",
+    "footerLine1": "Funktionelle Outdoorstoffe",
+    "footerLine2": "für technische Bekleidung",
+    "footerExplore": "Entdecken",
+    "footerConnect": "Kontakt",
+    "footerTagline": "Für den Einsatz im Freien entwickelt.",
+    "arrow": "↗",
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundText": "Die angeforderte Seite wurde nicht gefunden.",
+    "breadcrumb": "Brotkrumennavigation",
+    "organizationDescription": "Hersteller funktionaler Outdoorstoffe und integrierter Textilproduzent."
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "eyebrow": "LEISTUNGSFÄHIGE MATERIALIEN",
+          "title": "Performance|Outdoorstoffe",
+          "copy": "Outdoorstoffe für Ski- und Wanderbekleidung, Shelljacken und technische Kleidung.",
+          "alt": "Close-up of a technical outdoor fabric"
+        },
+        {
+          "eyebrow": "TEXTILPRODUKTION",
+          "title": "Vom Garn|zum Stoff",
+          "copy": "Entdecken Sie die Prozesse der Stoffherstellung und funktionellen Ausrüstung.",
+          "alt": "Textile production equipment in a bright workshop"
+        },
+        {
+          "eyebrow": "PRÜFUNG & QUALITÄT",
+          "title": "Geprüft für|Performance",
+          "copy": "Besprechen Sie Prüfverfahren und Zielanforderungen mit unserem Team.",
+          "alt": "YIPAI fabric testing laboratory equipment"
+        }
+      ],
+      "pillars": "Wasserdicht · Atmungsaktiv · Abriebfest · Elastisch",
+      "meta": "YIPAI TEXTILE / PERFORMANCE MATERIALS",
+      "controls": "Choose hero slide",
+      "primary": "Stoffe entdecken",
+      "secondary": "Muster anfragen"
+    },
+    "featured": {
+      "eyebrow": "MATERIALBIBLIOTHEK",
+      "title": "Funktionelle Stoffe, klar strukturiert",
+      "text": "Entdecken Sie Kernmaterialien für technische Bekleidung."
+    },
+    "applications": {
+      "eyebrow": "ANWENDUNGEN",
+      "title": "Ausgangspunkt ist Ihr Produkt",
+      "text": "Finden Sie passende Stoffe für Ihre Bekleidungskollektion."
+    },
+    "ctaTitle": "Finden wir den passenden Stoff für Ihre nächste Kollektion.",
+    "ctaText": "Teilen Sie uns Bekleidung, Leistungsziel und Konstruktion mit.",
+    "development": {
+      "eyebrow": "INDIVIDUELLE STOFFENTWICKLUNG",
+      "title": "Vom Produktbrief zum Stoffmuster.",
+      "text": "Teilen Sie Anwendung, Konstruktion und Leistungsziele mit uns. Gemeinsam entwickeln wir eine passende Stofflösung für Ihre Kollektion.",
+      "button": "Entwicklungsprojekt starten"
+    },
+    "technical": {
+      "eyebrow": "TECHNISCHE PERFORMANCE",
+      "title": "Entwickelt nach Ihren Anforderungen.",
+      "text": "Die Leistung hängt von Stoffaufbau, Ausrüstung und den Einsatzbedingungen des Kleidungsstücks ab.",
+      "items": [
+        "Wetterschutz",
+        "Atmungsaktivität",
+        "Abriebfestigkeit",
+        "Elastizität & Rücksprung"
+      ]
+    },
+    "testing": {
+      "eyebrow": "PRÜFUNG & QUALITÄT",
+      "title": "Prüfen, was für Sie zählt.",
+      "text": "Besprechen Sie geeignete Prüfverfahren und Zielwerte für Ihr Produkt und Ihren Markt.",
+      "button": "Prüfung & Qualität ansehen"
+    },
+    "why": {
+      "eyebrow": "WARUM YIPAI",
+      "title": "Ein praxisnaher Partner für Funktionstextilien.",
+      "text": "Von der Stoffempfehlung über Muster bis zur Produktion – abgestimmt auf Ihren Produktbrief.",
+      "items": [
+        "Anwendungsgerechte Stoffempfehlungen",
+        "Individuelle Leistungs- und Konstruktionsziele",
+        "Koordination von Mustern und Produktion",
+        "Internationale B2B-Stoffversorgung"
+      ]
+    }
+  },
+  "pages": {
+    "fabrics": {
+      "seoTitle": "Outdoorstoffe für technische Bekleidung",
+      "seoDescription": "Entdecken Sie wasserdichte, atmungsaktive, zwei- und dreilagige sowie elastische Outdoorstoffe.",
+      "heroEyebrow": "STOFFKOLLEKTION / FUNKTIONELLE TEXTILIEN",
+      "heroTitle": "Stofflösungen|für jede Schicht.",
+      "heroText": "Entdecken Sie wasserdichte, schnelltrocknende, kühlende, UV-schützende und beschichtete Stoffe für technische Bekleidung.",
+      "libraryEyebrow": "STOFFBIBLIOTHEK",
+      "libraryTitle": "Nach Stoffart entdecken",
+      "libraryText": "Vergleichen Sie Oberflächen und Konstruktionen und teilen Sie uns anschließend Ihr Bekleidungs- und Leistungsziel mit.",
+      "categoryLinks": [
+        "Wetterschutz",
+        "Schnelltrocknend & kühlend",
+        "Spezialstoffe"
+      ],
+      "groups": [
+        "Wetterschutz",
+        "Schnelltrocknend & kühlend",
+        "Spezialstoffe"
+      ],
+      "recommendation": "Brauchen Sie eine Empfehlung? Muster anfragen"
+    },
+    "applications": {
+      "seoTitle": "Stoffe für Outdoorbekleidung",
+      "seoDescription": "Funktionelle Stofflösungen für Ski, Wandern, Outdoorjacken, Hosen und Arbeitskleidung.",
+      "heroEyebrow": "ANWENDUNGEN / MATERIAL IM EINSATZ",
+      "heroTitle": "Für Ihre|Bewegungsfreiheit gemacht.",
+      "heroText": "Entdecken Sie Bekleidungsanwendungen und die dafür relevanten Stoffeigenschaften.",
+      "sectionEyebrow": "BEKLEIDUNGSANWENDUNGEN",
+      "sectionTitle": "Ausgangspunkt ist das Kleidungsstück",
+      "sectionText": "Wählen Sie eine Kategorie und entdecken Sie geeignete Stoffkonstruktionen und Ausrüstungen."
+    },
+    "performance": {
+      "seoTitle": "Leistung technischer Outdoorstoffe",
+      "seoDescription": "Atmungsaktivität, Wasserdichtigkeit, Abriebfestigkeit und Elastizität für Outdoorstoffe.",
+      "heroEyebrow": "PERFORMANCE / NACH ANFORDERUNG ENTWICKELT",
+      "heroTitle": "Performance|mit klarer Funktion.",
+      "heroText": "Entdecken Sie die Stoffeigenschaften, die Komfort und Schutz technischer Outdoorbekleidung prägen.",
+      "sectionEyebrow": "TECHNISCHE BIBLIOTHEK",
+      "sectionTitle": "Materialentscheidungen verstehen",
+      "sectionText": "Die Leistung hängt von Stoffaufbau, Ausrüstung, Bekleidungskonstruktion und Einsatzbereich ab."
+    },
+    "development": {
+      "seoTitle": "Individuelle Outdoorstoff-Entwicklung | YIPAI Textile",
+      "seoDescription": "Entwickeln Sie Outdoorstoffe nach Anwendung, Zusammensetzung, Gewicht, Konstruktion und Leistungsanforderung.",
+      "heroEyebrow": "GEMEINSAME ENTWICKLUNG",
+      "heroTitle": "Individuelle Outdoorstoff-|entwicklung",
+      "heroText": "Von Ihren Produktanforderungen zur passenden Stoffrichtung und zum Muster.",
+      "briefEyebrow": "VON DER SPEZIFIKATION ZUR PRODUKTION",
+      "briefTitle": "Teilen Sie Ihr Briefing.|Wir kümmern uns um den nächsten Schritt.",
+      "briefText": "Teilen Sie uns Ihre Anforderungen mit. Wir besprechen Stoffempfehlungen, Laborentwicklung und Muster passend zu Produkt und Leistungszielen.",
+      "requirements": [
+        "Zielanwendung",
+        "Faserzusammensetzung",
+        "Gewicht und Nutzbreite",
+        "Dehnung und Rücksprung",
+        "Wasserdichtigkeits- und Atmungsaktivitätsziele",
+        "Griff und Abriebanforderungen",
+        "Farbe und Ausrüstung"
+      ],
+      "flowEyebrow": "ENTWICKLUNGSABLAUF",
+      "flowTitle": "Der Weg zum Stoffmuster",
+      "steps": [
+        "Anforderungen",
+        "Empfehlung",
+        "Laborentwicklung",
+        "Muster",
+        "Prüfung",
+        "Serienproduktion"
+      ],
+      "projectStatus": "Projektbezogen",
+      "collaborateEyebrow": "SO ARBEITEN WIR ZUSAMMEN",
+      "processTitle": "Von der Spezifikation zur Produktion",
+      "startEyebrow": "STARTEN SIE MIT IHREM WISSEN",
+      "startTitle": "Jedes Projekt beginnt mit einem Gespräch.",
+      "startText": "Einige Anforderungen sind vielleicht noch offen. Teilen Sie uns Bekleidung und Einsatzumgebung mit – wir beginnen mit Ihrem Briefing.",
+      "ctaTitle": "Haben Sie bereits ein Stoffbriefing?",
+      "ctaText": "Starten Sie mit Anwendung, Materialrichtung und Leistungsanforderungen."
+    },
+    "testing": {
+      "seoTitle": "Prüfung und Qualität technischer Stoffe | YIPAI Textile",
+      "seoDescription": "Besprechen Sie Prüfverfahren für wasserdichte, atmungsaktive, abriebfeste und elastische Outdoorstoffe.",
+      "heroEyebrow": "PRÜFUNG & QUALITÄT / PROJEKTBEZOGENE BEWERTUNG",
+      "heroTitle": "Prüfen, was|wirklich zählt.",
+      "heroText": "Technische Stoffe können nach anwendbaren Kundenanforderungen und vereinbarten Prüfverfahren bewertet werden.",
+      "approachEyebrow": "EIN ABGESTIMMTER ANSATZ",
+      "approachTitle": "Ausgangspunkt ist die Anforderung.",
+      "approachText": "Prüfverfahren und Annahmekriterien hängen von Produktprofil, Zielmarkt und Einsatz ab. Teilen Sie die Anforderungen frühzeitig, damit die Bewertung geplant werden kann.",
+      "disclaimer": "Diese Seite beschreibt lediglich Prüfbereiche. Sie macht keine Aussage zu Zertifizierungen, Prüfergebnissen oder Konformität.",
+      "method": "Prüfverfahren besprechen",
+      "planEyebrow": "ANGABEN FÜR DEN PRÜFPLAN",
+      "faq": [
+        [
+          "Anwendbares Verfahren",
+          "Nennen Sie das von Ihrem Team oder Kunden geforderte Prüfverfahren oder die Norm."
+        ],
+        [
+          "Zielkriterien",
+          "Teilen Sie die für Ihr Produkt geltenden Leistungsgrenzwerte und Annahmekriterien mit."
+        ],
+        [
+          "Probenart",
+          "Stimmen Sie Konstruktion, Ausrüstung und benötigtes Musterformat ab."
+        ],
+        [
+          "Projektphase",
+          "Planen Sie Prüfungen für Entwicklung, Musterfreigabe oder Produktionskontrolle."
+        ]
+      ],
+      "ctaTitle": "Möchten Sie Prüfanforderungen besprechen?",
+      "ctaText": "Teilen Sie relevante Verfahren und Zielwerte mit Ihrer Stoffanfrage."
+    },
+    "about": {
+      "seoTitle": "Über YIPAI Textile | Outdoorstoffe aus Suzhou",
+      "seoDescription": "Lernen Sie YIPAI Textile kennen – Hersteller funktioneller Outdoorstoffe für Ski-, Wander- und technische Bekleidung.",
+      "heroEyebrow": "SUZHOU YIPAI TEXTILE CO., LTD.",
+      "heroTitle": "Materialien für|Outdoor-Anwendungen.",
+      "heroText": "Funktionelle Outdoorstoffe für Bekleidungsteams, die Produkte für anspruchsvolle Einsatzbedingungen entwickeln.",
+      "whoEyebrow": "ÜBER UNS",
+      "whoTitle": "Funktionelle Outdoorstoffe für technische Bekleidung.",
+      "paragraphs": [
+        "YIPAI TEXTILE ist ein Hersteller funktioneller Outdoorstoffe und integrierter Textilpartner mit Sitz in Suzhou, China.",
+        "Wir arbeiten mit Outdoor-Marken, Bekleidungsherstellern und internationalen Stoffeinkäufern an funktionellen Materialien für Ski- und Wanderbekleidung, Shelljacken, Outdoorhosen und Arbeitskleidung.",
+        "Unser Portfolio umfasst wasserdicht-atmungsaktive Konstruktionen, Nylon-Stretchstoffe, abriebfeste Optionen und PFC-freie wasserabweisende Ausrüstungen. Spezifikationen richten sich nach dem jeweiligen Anwendungsprofil."
+      ],
+      "benefitEyebrow": "IHR MATERIALPARTNER",
+      "benefitTitle": "Warum mit YIPAI arbeiten?",
+      "benefitText": "Ein integrierter Textilpartner für Teams, die funktionelle Outdoorprodukte entwickeln.",
+      "benefits": [
+        "Outdoorstoff-Entwicklung",
+        "Funktionelle Stofflösungen",
+        "Individuelle Spezifikationen",
+        "Stoffmuster",
+        "Produktionsbegleitung",
+        "Internationaler B2B-Vertrieb"
+      ],
+      "benefitCardText": "Besprechen Sie Ihr Stoffprofil mit dem YIPAI-Team."
+    },
+    "contact": {
+      "seoTitle": "YIPAI Textile kontaktieren",
+      "seoDescription": "Kontaktieren Sie SUZHOU YIPAI TEXTILE CO., LTD. zu Outdoorstoffen, Mustern und Entwicklung.",
+      "eyebrow": "KONTAKT / SUZHOU, CHINA",
+      "title": "Sprechen wir über|Materialien.",
+      "intro": "Erzählen Sie uns, was Sie entwickeln. Wir beraten Sie zu Outdoorstoffen, technischen Anforderungen und Mustern.",
+      "company": "Unternehmen",
+      "ctaTitle": "Bereit, einen Stoff zu entwickeln?",
+      "ctaText": "Senden Sie Ihre Projektanforderungen über unser Musteranfrageformular."
+    },
+    "requestSample": {
+      "seoTitle": "Outdoorstoff-Muster anfragen | YIPAI Textile",
+      "seoDescription": "Fragen Sie Stoffmuster an und teilen Sie Anwendung, Gewicht, Konstruktion und Leistungsziele mit.",
+      "eyebrow": "YIPAI STOFFE / MUSTERANFRAGE",
+      "title": "Finden wir die richtige|Stofflösung.",
+      "intro": "Teilen Sie Ihre Anwendung und Leistungsziele mit. Je genauer Ihre Angaben sind, desto besser können wir Ihre Anfrage einschätzen.",
+      "quickContact": "Sie möchten direkt sprechen?"
+    },
+    "productDetail": {
+      "eyebrow": "YIPAI STOFF",
+      "overviewEyebrow": "PRODUKTÜBERSICHT",
+      "overviewTitle": "Performance für Ihr Produktprofil.",
+      "keyPerformance": "Wichtige Eigenschaften",
+      "applications": "Geeignete Anwendungen",
+      "specEyebrow": "TECHNISCHE SPEZIFIKATIONEN",
+      "specTitle": "Nach Ihren Anforderungen entwickelt",
+      "specs": [
+        "Zusammensetzung",
+        "Gewicht",
+        "Nutzbreite",
+        "Konstruktion",
+        "Wasserdichtigkeitsziel",
+        "Atmungsaktivitätsziel",
+        "Ausrüstung"
+      ],
+      "toDefine": "Projektbezogen festzulegen",
+      "customized": "Spezifikationen lassen sich an die Anwendungsanforderungen anpassen.",
+      "shareSpec": "Teilen Sie Ihre Zielwerte mit uns, damit wir passende Optionen besprechen können.",
+      "pfcContext": "PFC-freie Optionen unterstützen fluorfreie wasserabweisende Ausrüstungsstrategien. Wasserabweisung, Atmungsaktivität und Anwendung sind gemeinsam zu berücksichtigen.",
+      "generalContext": "Ausgangspunkt sind Bekleidung, Einsatzumgebung und Zielwerte. YIPAI bespricht geeignete Stoffkonstruktionen und Entwicklungsmöglichkeiten.",
+      "finishingEyebrow": "AUSRÜSTUNG & PRÜFUNG",
+      "finishingTitle": "Entwicklung und Bewertung nach Briefing.",
+      "finishingText": "Ausrüstungen und Prüfverfahren richten sich nach Bekleidung und vereinbarten Zielanforderungen.",
+      "projectLed": "Projektbezogene Bewertung",
+      "finishingOptions": "Ausrüstungsoptionen",
+      "defineApplication": "Nach Anwendung festlegen",
+      "testMethod": "Prüfverfahren",
+      "agreeProject": "Projektbezogen abstimmen",
+      "acceptance": "Annahmekriterien",
+      "provideTarget": "Zielwerte angeben",
+      "relatedEyebrow": "WEITER ENTDECKEN",
+      "relatedTitle": "Verwandte Stoffrichtungen",
+      "ctaText": "Teilen Sie Anwendung, Konstruktion und Leistungsziele Ihres Projekts."
+    },
+    "applicationDetail": {
+      "eyebrow": "ANWENDUNG",
+      "builtEyebrow": "FÜR DEN EINSATZ ENTWICKELT",
+      "builtTitle": "Materialien für die jeweilige Umgebung.",
+      "bullets": [
+        "Wasserdichte Optionen",
+        "Atmungsaktivität und Feuchtigkeitstransport",
+        "Abriebfestigkeit je nach Einsatz",
+        "Windschutz und Stretchoptionen",
+        "Entwicklung von Konstruktion und Ausrüstung"
+      ],
+      "briefEyebrow": "ENTWICKLUNGSBRIEFING",
+      "briefTitle": "Was entwickeln Sie?",
+      "briefFields": [
+        "Einsatzumgebung",
+        "Bekleidungsart",
+        "Zielgewicht",
+        "Stretch und Beweglichkeit",
+        "Wetterschutz",
+        "Farbe und Ausrüstung"
+      ],
+      "defineTogether": "Gemeinsam festlegen",
+      "customizable": "Spezifikationen lassen sich an die Anwendungsanforderungen anpassen.",
+      "categoriesEyebrow": "GEEIGNETE STOFFKATEGORIEN",
+      "categoryTitle": "Stoffe für {name} entdecken",
+      "ctaTitle": "Sie suchen Stoffe für {name}?",
+      "ctaText": "Teilen Sie Leistungsziel und Konstruktion. Wir besprechen geeignete Stofflösungen.",
+      "sampleButton": "Muster für {name} anfragen",
+      "context": {
+        "ski-wear": "Ski garments may combine technical shell construction with weather protection, breathability, wind protection and mobility. Share the expected conditions, garment zones and low-temperature use context for fabric selection.",
+        "hiking": "Hiking apparel may need to balance weather protection, moisture vapor movement, abrasion requirements and comfort through sustained movement in changing conditions.",
+        "outdoor-jackets": "Outdoor jackets range from light layers to technical shells. Define the intended layering system, weather exposure, hand feel and construction before selecting a fabric.",
+        "outdoor-pants": "Outdoor pants briefs often consider freedom of movement, recovery, abrasion by wear zone and the level of weather protection required.",
+        "technical-apparel": "Technical apparel requirements depend on garment design and intended use. Share target performance, construction, weight and finishing needs to shape material development.",
+        "workwear": "Workwear fabric requirements vary by job, environment and garment. Share the conditions of use, durability priorities and any applicable evaluation requirements."
+      }
+    },
+    "performanceDetail": {
+      "eyebrow": "PERFORMANCE / TECHNISCHER LEITFADEN",
+      "understandingEyebrow": "PERFORMANCE VERSTEHEN",
+      "understandingTitle": "Performance ist ein System.",
+      "whatToConsider": "Worauf es ankommt",
+      "bodySuffix": "Lagen, Faserauswahl, Ausrüstung und Bekleidungskonstruktion beeinflussen die Leistung im Einsatz.",
+      "bodyEnd": "Definieren Sie Zielwerte und Prüfverfahren gemeinsam mit Ihrem Produktteam. YIPAI bespricht passende Stoffrichtungen; konkrete Ergebnisse werden erst nach Abstimmung und Bewertung zugesagt.",
+      "parametersEyebrow": "ENTWICKLUNGSPARAMETER",
+      "parametersTitle": "Einsatz definieren",
+      "parameters": [
+        "Anwendung",
+        "Stoffkonstruktion",
+        "Leistungsziel",
+        "Prüfverfahren",
+        "Gewicht und Griff",
+        "Ausrüstungsoptionen"
+      ],
+      "parameterStatus": "Im Projektbrief festlegen",
+      "ctaTitle": "Besprechen Sie Ihre Stoffanforderungen",
+      "ctaText": "Teilen Sie Anwendung, Zielwerte und gewünschte Bewertungsmethode mit."
+    }
+  },
+  "form": {
+    "name": "Name *",
+    "company": "Unternehmen *",
+    "businessEmail": "Geschäftliche E-Mail *",
+    "country": "Land *",
+    "application": "Anwendung *",
+    "composition": "Materialzusammensetzung",
+    "weight": "Flächengewicht",
+    "weightPlaceholder": "z. B. Zielgewicht oder Bereich",
+    "width": "Nutzbreite",
+    "waterproof": "Anforderung an Wasserdichtigkeit",
+    "breathability": "Anforderung an Atmungsaktivität",
+    "stretch": "Anforderung an Elastizität",
+    "finish": "Ausrüstungsanforderung",
+    "message": "Nachricht",
+    "help": "Wie können wir helfen?",
+    "messagePlaceholder": "Beschreiben Sie Ihr Projekt, die Leistungsziele oder Ihre Fragen.",
+    "consent": "Mit dem Absenden stimmen Sie zu, dass YIPAI Textile diese Angaben zur Beantwortung Ihrer Anfrage verwendet.",
+    "select": "Anwendung auswählen",
+    "submitSamples": "Muster anfragen",
+    "submitInquiry": "Anfrage senden",
+    "successTitle": "Ihre Anfrage ist vorbereitet.",
+    "successBody": "Ihre E-Mail-App sollte sich mit den Projektdetails öffnen. Senden Sie die E-Mail, um Ihre Anfrage abzuschließen. Falls sie sich nicht öffnet, schreiben Sie an",
+    "applicationOptions": [
+      "Skibekleidung",
+      "Wandern",
+      "Outdoorjacke",
+      "Outdoorhose",
+      "Arbeitskleidung",
+      "Sonstiges"
+    ]
+  },
+  "content": {
+    "products": {
+      "waterproof-breathable": {
+        "name": "Wasserdichtes, atmungsaktives Gewebe",
+        "short": "Wetterschutz für aktive Tage im Freien.",
+        "category": "Wetterschutz",
+        "features": [
+          "Wasserdicht",
+          "Atmungsaktiv",
+          "Winddicht"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski wear",
+          "Hiking"
+        ]
+      },
+      "3-layer": {
+        "name": "3-lagiges wasserdichtes, atmungsaktives Gewebe",
+        "short": "Dreilagiger Schutz für anspruchsvolle Shell-Anwendungen.",
+        "category": "3-Lagen-Konstruktion",
+        "features": [
+          "Wasserdicht",
+          "Atmungsaktiv",
+          "Abriebfest"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski jackets",
+          "Technical apparel"
+        ]
+      },
+      "2-layer": {
+        "name": "2-lagiges Outdoor-Gewebe",
+        "short": "Vielseitiger Schichtenschutz für Outdoor- und Funktionsbekleidung.",
+        "category": "2-Lagen-Konstruktion",
+        "features": [
+          "Wetterschutz",
+          "Leichte Optionen",
+          "Individuelle Ausrüstung"
+        ],
+        "applications": [
+          "Outdoor jackets",
+          "Hiking",
+          "Workwear"
+        ]
+      },
+      "nylon-4-way-stretch": {
+        "name": "Nylon-Stretchgewebe mit 4-Wege-Elastizität",
+        "short": "Bewegungsfreiheit mit ausgewogener Dehnung und Rücksprung.",
+        "category": "Outdoor-Stretch",
+        "features": [
+          "4-Wege-Stretch",
+          "Gute Rückstellung",
+          "Schnelltrocknend"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Ski wear"
+        ]
+      },
+      "pfc-free": {
+        "name": "PFC-freies wasserabweisendes Gewebe",
+        "short": "Fluorfreie wasserabweisende Ausrüstungsoptionen für Outdoor-Kollektionen.",
+        "category": "Wasserabweisend",
+        "features": [
+          "PFC-freie DWR-Optionen",
+          "Atmungsaktive Optionen",
+          "Individuelle Entwicklung"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Hiking",
+          "Outdoor apparel"
+        ]
+      },
+      "ski-wear": {
+        "name": "Stoff für Skibekleidung",
+        "short": "Funktionelle Stoffe für Skijacken und -hosen.",
+        "category": "Anwendungsstoff",
+        "features": [
+          "Wasserdichte Optionen",
+          "Windschutz",
+          "Abriebfestigkeit"
+        ],
+        "applications": [
+          "Ski jackets",
+          "Ski pants",
+          "Snow apparel"
+        ]
+      },
+      "quick-dry": {
+        "name": "Schnelltrocknendes Nylon-Stretchgewebe",
+        "short": "Leichtes Gewebe für Aktivbekleidung und Outdoorhosen.",
+        "category": "Feuchtigkeitsmanagement",
+        "features": [
+          "Schnelltrocknend",
+          "Nylon-Stretch",
+          "Leichtes Gewebe"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Technical apparel"
+        ]
+      },
+      "cooling-mesh": {
+        "name": "Kühlendes, schnelltrocknendes Mesh",
+        "short": "Offene Mesh-Konstruktion für atmungsaktive Sport- und Sommerbekleidung.",
+        "category": "Kühlendes Mesh",
+        "features": [
+          "Mesh-Konstruktion",
+          "Schnelltrocknend",
+          "Stretchoptionen"
+        ],
+        "applications": [
+          "Sportswear",
+          "Base layers",
+          "Warm-weather apparel"
+        ]
+      },
+      "uv-protection": {
+        "name": "UV-Schutzgewebe",
+        "short": "Leichte Stoffoption für sonnenschützende Outdoorbekleidung.",
+        "category": "Sonnenschutz",
+        "features": [
+          "Leichte Optionen",
+          "Schnelltrocknend",
+          "Outdoorbekleidung"
+        ],
+        "applications": [
+          "Sun shirts",
+          "Light jackets",
+          "Summer apparel"
+        ]
+      },
+      "cooling-fabric": {
+        "name": "Kühlendes Outdoor-Gewebe",
+        "short": "Leichtes Gewebe für warme Tage und Outdoorhosen.",
+        "category": "Kühlender Griff",
+        "features": [
+          "Kühlender Griff",
+          "Stretchoptionen",
+          "Schnelltrocknend"
+        ],
+        "applications": [
+          "Outdoor shirts",
+          "Hiking pants",
+          "Summer apparel"
+        ]
+      },
+      "flame-retardant": {
+        "name": "Flammhemmendes Oxford-Gewebe mit Beschichtung",
+        "short": "Beschichtetes Oxford für Schutzbekleidung und Outdoor-Ausrüstung.",
+        "category": "Schutzgewebe",
+        "features": [
+          "Oxford-Konstruktion",
+          "Beschichtungsoptionen",
+          "Prüfnorm abstimmen"
+        ],
+        "applications": [
+          "Protective apparel",
+          "Rainwear",
+          "Outdoor equipment"
+        ]
+      }
+    },
+    "applications": {
+      "ski-wear": {
+        "name": "Skibekleidung",
+        "title": "Funktionsstoffe für Skibekleidung",
+        "description": "Stofflösungen für Skijacken und -hosen mit ausgewogenem Wetterschutz, Atmungsaktivität, Abriebfestigkeit und Bewegungsfreiheit."
+      },
+      "hiking": {
+        "name": "Wandern",
+        "title": "Technische Stoffe für Wanderbekleidung",
+        "description": "Stoffkonstruktionen für Wanderjacken und -hosen, ausgelegt auf wechselndes Wetter, aktive Bewegung und lange Tage im Freien."
+      },
+      "outdoor-jackets": {
+        "name": "Outdoorjacken",
+        "title": "Stoffe für Outdoorjacken und Shells",
+        "description": "Entwickeln Sie Outdoorjacken mit passenden wasserdichten, atmungsaktiven und windabweisenden Stoffkonstruktionen."
+      },
+      "outdoor-pants": {
+        "name": "Outdoorhosen",
+        "title": "Stoffe für Outdoorhosen",
+        "description": "Entwickeln Sie Outdoorhosen mit Fokus auf Elastizität, Rücksprung, Abrieb und Wetterschutz."
+      },
+      "technical-apparel": {
+        "name": "Technische Bekleidung",
+        "title": "Stofflösungen für technische Bekleidung",
+        "description": "Entdecken Sie funktionelle Stoffkonstruktionen und Entwicklungsoptionen für technische Bekleidungsprogramme."
+      },
+      "workwear": {
+        "name": "Arbeitskleidung",
+        "title": "Funktionelle Stoffe für Arbeitskleidung",
+        "description": "Langlebige Stoffoptionen für Arbeitskleidung, abgestimmt auf Einsatzumgebung und Bekleidungsanforderungen."
+      }
+    },
+    "performances": {
+      "breathability": {
+        "name": "Atmungsaktivität",
+        "title": "Atmungsaktive Outdoorstoffe",
+        "description": "Atmungsaktivität beschreibt den Feuchtigkeitstransport durch ein Stoffsystem und hängt vom Zusammenspiel aus Konstruktion, Membran und Ausrüstung ab.",
+        "points": [
+          "Wasserdampfdurchgang",
+          "Konstruktion und Lagenwahl",
+          "Anwendungsgerechte Entwicklung"
+        ]
+      },
+      "waterproof": {
+        "name": "Wasserdichtigkeit",
+        "title": "Wasserdichte Outdoorstofflösungen",
+        "description": "Die Wasserdichtigkeit hängt vom gesamten Stoffaufbau und dem vorgesehenen Einsatz ab. Definieren Sie Ziele frühzeitig für Entwicklung und Bewertung.",
+        "points": [
+          "Wetterschutz",
+          "Nähte und Bekleidungskontext",
+          "Prüfung nach vereinbarten Anforderungen"
+        ]
+      },
+      "abrasion-resistance": {
+        "name": "Abriebfestigkeit",
+        "title": "Abriebfeste Outdoorstoffe",
+        "description": "Abriebanforderungen variieren je nach Bekleidungszone und Einsatz. Stoffaufbau und Prüfverfahren werden auf Ihr Produkt abgestimmt.",
+        "points": [
+          "Materialauswahl",
+          "Anwendungsspezifische Anforderungen",
+          "Prüfung nach vereinbartem Verfahren"
+        ]
+      },
+      "stretch-recovery": {
+        "name": "Dehnung und Rücksprung",
+        "title": "Elastizität und Rücksprung für Outdoorbekleidung",
+        "description": "Dehnung und Rücksprung unterstützen die Bewegungsfreiheit. Faser, Konstruktion und Ausrüstung bestimmen Griff und Verhalten.",
+        "points": [
+          "4-Wege-Stretch-Optionen",
+          "Rücksprung",
+          "Griff und Passform"
+        ]
+      }
+    },
+    "performanceFeatures": [
+      {
+        "title": "High Breathability",
+        "text": "Fabric systems can be developed with moisture vapor movement in mind, based on intended activity and construction."
+      },
+      {
+        "title": "Waterproof Protection",
+        "text": "Waterproof options support shell applications; targets and evaluation methods can be agreed for each brief."
+      },
+      {
+        "title": "Abrasion Resistance",
+        "text": "Select constructions with the intended wear zones and outdoor conditions in mind."
+      },
+      {
+        "title": "Stretch & Recovery",
+        "text": "Stretch options support mobility, with fabric selection guided by fit and recovery requirements."
+      }
+    ],
+    "testingCategories": [
+      "Wasserdichtigkeitsprüfung",
+      "Atmungsaktivitätsprüfung",
+      "Abriebprüfung"
+    ],
+    "processSteps": [
+      "Tell Us Your Requirements",
+      "Fabric Recommendation",
+      "Lab Development",
+      "Sample Approval",
+      "Bulk Production"
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "fabrics": "Fabrics",
+    "applications": "Applications",
+    "performance": "Performance",
+    "custom-development": "Custom Development",
+    "testing-quality": "Testing & Quality",
+    "about": "About",
+    "contact": "Contact",
+    "request-sample": "Request Samples",
+    "waterproof-breathable": "Waterproof Breathable",
+    "3-layer": "3-Layer",
+    "2-layer": "2-Layer",
+    "nylon-4-way-stretch": "Nylon 4-Way Stretch",
+    "pfc-free": "PFC-Free",
+    "ski-wear": "Ski Wear",
+    "hiking": "Hiking",
+    "outdoor-jackets": "Outdoor Jackets",
+    "outdoor-pants": "Outdoor Pants",
+    "technical-apparel": "Technical Apparel",
+    "workwear": "Workwear",
+    "breathability": "Breathability",
+    "waterproof": "Waterproof",
+    "abrasion-resistance": "Abrasion Resistance",
+    "stretch-recovery": "Stretch & Recovery"
+  },
+  "seo": {
+    "homeTitle": "Outdoorstoffe für technische Bekleidung | YIPAI Textile",
+    "homeDescription": "Funktionelle Outdoorstoffe für Ski-, Wander- und technische Bekleidung. Wasserdichte, atmungsaktive und elastische Textilien gemeinsam mit YIPAI entwickeln."
+  }
+}

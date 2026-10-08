@@ -1,0 +1,718 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "fabrics": "Tissus",
+    "applications": "Applications",
+    "performance": "Performances",
+    "development": "Développement sur mesure",
+    "testing": "Tests et qualité",
+    "about": "À propos",
+    "contact": "Contact",
+    "samples": "Demander des échantillons",
+    "language": "Langue",
+    "menu": "Menu",
+    "close": "Fermer",
+    "open": "Ouvrir la navigation",
+    "mobileNav": "Navigation mobile"
+  },
+  "common": {
+    "home": "Accueil",
+    "explore": "Découvrir",
+    "exploreAllFabrics": "Voir tous les tissus",
+    "exploreAllApplications": "Voir toutes les applications",
+    "exploreTopic": "Explorer le sujet",
+    "requestSamples": "Demander des échantillons",
+    "contact": "Contacter YIPAI",
+    "contactUs": "Nous contacter",
+    "whatsapp": "WhatsApp",
+    "email": "Nous écrire",
+    "emailLabel": "E-mail",
+    "company": "Entreprise",
+    "website": "Site web",
+    "request": "Demande",
+    "sendInquiry": "Envoyer la demande",
+    "shareProject": "Présenter votre projet",
+    "startProject": "Démarrer un projet",
+    "discussDevelopment": "Parlons développement",
+    "discussRequirements": "Discuter de vos exigences",
+    "testingQuality": "Tests et qualité",
+    "backHome": "Back to Home",
+    "ctaEyebrow": "Construisons pour le plein air",
+    "ctaTitle": "Trouvons le tissu adapté à votre prochaine collection.",
+    "ctaText": "Présentez-nous le vêtement, les performances visées et la construction. Notre équipe vous orientera vers des solutions adaptées.",
+    "ctaRequestText": "Send your project requirements with our dedicated sample request form.",
+    "whatsappAria": "Contacter YIPAI Textile sur WhatsApp",
+    "whatsappTitle": "Écrire à YIPAI sur WhatsApp",
+    "footerLine1": "Tissus outdoor techniques",
+    "footerLine2": "pour vêtements techniques",
+    "footerExplore": "Découvrir",
+    "footerConnect": "Contact",
+    "footerTagline": "Pensé pour le plein air.",
+    "arrow": "↗",
+    "notFoundTitle": "Page introuvable",
+    "notFoundText": "La page demandée est introuvable.",
+    "breadcrumb": "Fil d’Ariane",
+    "organizationDescription": "Fabricant de tissus outdoor techniques et entreprise intégrée de production textile."
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "eyebrow": "MATIÈRES TECHNIQUES",
+          "title": "Tissus outdoor|techniques",
+          "copy": "Des tissus outdoor pour le ski, la randonnée, les vestes et les vêtements techniques.",
+          "alt": "Close-up of a technical outdoor fabric"
+        },
+        {
+          "eyebrow": "PRODUCTION TEXTILE",
+          "title": "Du fil|au tissu",
+          "copy": "Découvrez les étapes de fabrication et les finitions fonctionnelles.",
+          "alt": "Textile production equipment in a bright workshop"
+        },
+        {
+          "eyebrow": "TESTS ET QUALITÉ",
+          "title": "Testé pour|la performance",
+          "copy": "Échangeons sur les méthodes d’essai et les objectifs de performance.",
+          "alt": "YIPAI fabric testing laboratory equipment"
+        }
+      ],
+      "pillars": "Imperméable · Respirant · Résistant à l’abrasion · Extensible",
+      "meta": "YIPAI TEXTILE / PERFORMANCE MATERIALS",
+      "controls": "Choose hero slide",
+      "primary": "Découvrir les tissus",
+      "secondary": "Demander des échantillons"
+    },
+    "featured": {
+      "eyebrow": "BIBLIOTHÈQUE MATIÈRES",
+      "title": "Des tissus fonctionnels, bien organisés",
+      "text": "Découvrez nos matières clés pour les vêtements techniques."
+    },
+    "applications": {
+      "eyebrow": "APPLICATIONS",
+      "title": "Partons de votre produit",
+      "text": "Trouvez des pistes matières adaptées à votre collection."
+    },
+    "ctaTitle": "Trouvons le tissu adapté à votre prochaine collection.",
+    "ctaText": "Présentez-nous le vêtement, les performances visées et la construction.",
+    "development": {
+      "eyebrow": "DÉVELOPPEMENT TEXTILE SUR MESURE",
+      "title": "Du cahier des charges à l’échantillon.",
+      "text": "Présentez l’application, la construction et les performances visées. Définissons ensemble une matière adaptée à votre collection.",
+      "button": "Lancer un projet de développement"
+    },
+    "technical": {
+      "eyebrow": "PERFORMANCE TECHNIQUE",
+      "title": "Développé selon vos exigences.",
+      "text": "Les performances dépendent de la construction, des finitions et des conditions d’utilisation du vêtement.",
+      "items": [
+        "Protection contre les intempéries",
+        "Respirabilité",
+        "Résistance à l’abrasion",
+        "Élasticité et reprise"
+      ]
+    },
+    "testing": {
+      "eyebrow": "TESTS ET QUALITÉ",
+      "title": "Évaluer les critères essentiels.",
+      "text": "Échangeons sur les méthodes d’évaluation et les objectifs adaptés à votre produit et à son marché.",
+      "button": "Découvrir les tests et la qualité"
+    },
+    "why": {
+      "eyebrow": "POURQUOI YIPAI",
+      "title": "Un partenaire concret pour les tissus fonctionnels.",
+      "text": "De la recommandation matière à l’échantillonnage et à la production, en cohérence avec votre cahier des charges.",
+      "items": [
+        "Recommandations adaptées à chaque application",
+        "Objectifs de performance et constructions sur mesure",
+        "Coordination des échantillons et de la production",
+        "Approvisionnement textile B2B international"
+      ]
+    }
+  },
+  "pages": {
+    "fabrics": {
+      "seoTitle": "Tissus outdoor pour vêtements techniques",
+      "seoDescription": "Découvrez des tissus outdoor imperméables, respirants, extensibles, en 2 ou 3 couches.",
+      "heroEyebrow": "COLLECTION DE TISSUS / TEXTILES FONCTIONNELS",
+      "heroTitle": "Des solutions textiles|pour chaque couche.",
+      "heroText": "Découvrez des tissus imperméables, à séchage rapide, rafraîchissants, anti-UV et enduits pour les vêtements techniques.",
+      "libraryEyebrow": "BIBLIOTHÈQUE DE TISSUS",
+      "libraryTitle": "Explorer par type de tissu",
+      "libraryText": "Comparez les matières et constructions, puis partagez votre vêtement cible et vos exigences de performance.",
+      "categoryLinks": [
+        "Protection contre les intempéries",
+        "Séchage rapide et fraîcheur",
+        "Tissus spécifiques"
+      ],
+      "groups": [
+        "Protection contre les intempéries",
+        "Séchage rapide et fraîcheur",
+        "Tissus spécifiques"
+      ],
+      "recommendation": "Besoin d’un conseil ? Demandez des échantillons"
+    },
+    "applications": {
+      "seoTitle": "Tissus pour vêtements outdoor",
+      "seoDescription": "Solutions textiles pour le ski, la randonnée, les vestes outdoor, les pantalons et le workwear.",
+      "heroEyebrow": "APPLICATIONS / LA MATIÈRE EN SITUATION",
+      "heroTitle": "Pensé pour|vos mouvements.",
+      "heroText": "Découvrez les vêtements concernés et les caractéristiques textiles qu’ils requièrent.",
+      "sectionEyebrow": "APPLICATIONS VÊTEMENT",
+      "sectionTitle": "Partir du vêtement",
+      "sectionText": "Choisissez une catégorie pour découvrir les constructions et finitions adaptées."
+    },
+    "performance": {
+      "seoTitle": "Performances des tissus outdoor",
+      "seoDescription": "Respirabilité, imperméabilité, résistance à l’abrasion et élasticité des textiles techniques.",
+      "heroEyebrow": "PERFORMANCE / DÉFINIE PAR VOTRE BESOIN",
+      "heroTitle": "La performance|au service de l’usage.",
+      "heroText": "Découvrez les caractéristiques textiles qui contribuent au confort et à la protection des vêtements outdoor techniques.",
+      "sectionEyebrow": "BIBLIOTHÈQUE TECHNIQUE",
+      "sectionTitle": "Comprendre les choix matière",
+      "sectionText": "Les performances dépendent de la construction, de la finition, du vêtement et de son usage."
+    },
+    "development": {
+      "seoTitle": "Développement de tissus outdoor sur mesure | YIPAI Textile",
+      "seoDescription": "Développez des tissus selon l’application, la composition, le poids, la construction et les performances visées.",
+      "heroEyebrow": "DÉVELOPPEMENT COLLABORATIF",
+      "heroTitle": "Développement de tissus|outdoor sur mesure",
+      "heroText": "De vos exigences produit à une orientation matière et un échantillon adaptés.",
+      "briefEyebrow": "DE LA SPÉCIFICATION À LA PRODUCTION",
+      "briefTitle": "Présentez votre besoin.|Nous avançons ensemble.",
+      "briefText": "Partagez vos critères. Nous étudierons les recommandations matière, le développement en laboratoire et les échantillons selon votre produit et vos objectifs.",
+      "requirements": [
+        "Application visée",
+        "Composition des fibres",
+        "Poids et largeur utile",
+        "Élasticité et reprise",
+        "Objectifs d’imperméabilité et de respirabilité",
+        "Toucher et résistance à l’abrasion",
+        "Couleur et finition"
+      ],
+      "flowEyebrow": "ÉTAPES DE DÉVELOPPEMENT",
+      "flowTitle": "Un parcours clair jusqu’à l’échantillon",
+      "steps": [
+        "Besoin",
+        "Recommandation",
+        "Développement labo",
+        "Échantillon",
+        "Essais",
+        "Production en série"
+      ],
+      "projectStatus": "Selon le projet",
+      "collaborateEyebrow": "NOTRE FAÇON DE COLLABORER",
+      "processTitle": "De la spécification à la production",
+      "startEyebrow": "PARTIR DE VOS ÉLÉMENTS",
+      "startTitle": "Chaque projet commence par un échange.",
+      "startText": "Certains critères peuvent rester à préciser. Indiquez le vêtement et son environnement d’utilisation pour cadrer le besoin.",
+      "ctaTitle": "Vous avez un cahier des charges textile ?",
+      "ctaText": "Présentez l’application, l’orientation matière et les performances visées."
+    },
+    "testing": {
+      "seoTitle": "Tests et qualité des tissus techniques | YIPAI Textile",
+      "seoDescription": "Échangez sur les essais de tissus outdoor imperméables, respirants, résistants à l’abrasion et extensibles.",
+      "heroEyebrow": "TESTS ET QUALITÉ / ÉVALUATION PAR PROJET",
+      "heroTitle": "Évaluer les critères|essentiels.",
+      "heroText": "Les tissus techniques peuvent être évalués selon les exigences applicables et des méthodes convenues.",
+      "approachEyebrow": "UNE APPROCHE CONCERTÉE",
+      "approachTitle": "Partir de l’exigence.",
+      "approachText": "Les méthodes et critères d’acceptation varient selon le produit, le marché et l’usage. Transmettez vos exigences pendant le développement pour planifier l’évaluation.",
+      "disclaimer": "Cette page présente des catégories d’évaluation. Elle ne revendique aucune certification, aucun résultat d’essai ni statut de conformité.",
+      "method": "Discuter de la méthode",
+      "planEyebrow": "ÉLÉMENTS DU PLAN D’ESSAI",
+      "faq": [
+        [
+          "Méthode applicable",
+          "Indiquez la méthode ou la norme demandée par votre équipe ou votre client."
+        ],
+        [
+          "Critères cibles",
+          "Partagez les seuils de performance et critères d’acceptation du produit."
+        ],
+        [
+          "Type d’échantillon",
+          "Confirmez la construction, la finition et le format d’échantillon requis."
+        ],
+        [
+          "Étape du projet",
+          "Planifiez les essais pendant le développement, la validation ou le contrôle de production."
+        ]
+      ],
+      "ctaTitle": "Des exigences d’essai à étudier ?",
+      "ctaText": "Communiquez les méthodes et critères visés avec votre demande textile."
+    },
+    "about": {
+      "seoTitle": "À propos de YIPAI Textile | Tissus outdoor",
+      "seoDescription": "Découvrez YIPAI Textile, fabricant de tissus outdoor techniques basé à Suzhou, en Chine.",
+      "heroEyebrow": "SUZHOU YIPAI TEXTILE CO., LTD.",
+      "heroTitle": "Des matières pour|le plein air.",
+      "heroText": "Des tissus outdoor techniques pour les équipes qui conçoivent des vêtements destinés aux environnements exigeants.",
+      "whoEyebrow": "QUI SOMMES-NOUS",
+      "whoTitle": "Des tissus outdoor techniques pour le vêtement fonctionnel.",
+      "paragraphs": [
+        "YIPAI TEXTILE est un fabricant de tissus outdoor techniques et un partenaire textile intégré basé à Suzhou, en Chine.",
+        "Nous accompagnons les marques outdoor, fabricants de vêtements et acheteurs internationaux dans le choix de matières pour le ski, la randonnée, les vestes shell, les pantalons outdoor et le workwear.",
+        "Notre offre comprend des constructions imperméables et respirantes, des tissus nylon stretch, des options résistantes à l’abrasion et des finitions déperlantes sans PFC. Les spécifications sont définies selon chaque application."
+      ],
+      "benefitEyebrow": "PARTENAIRE MATIÈRE",
+      "benefitTitle": "Pourquoi travailler avec YIPAI ?",
+      "benefitText": "Un partenaire textile intégré pour les équipes qui développent des produits outdoor fonctionnels.",
+      "benefits": [
+        "Développement de tissus outdoor",
+        "Solutions textiles fonctionnelles",
+        "Spécifications personnalisées",
+        "Échantillonnage textile",
+        "Accompagnement de production",
+        "Approvisionnement B2B international"
+      ],
+      "benefitCardText": "Échangez sur votre cahier des charges avec YIPAI."
+    },
+    "contact": {
+      "seoTitle": "Contacter YIPAI Textile",
+      "seoDescription": "Contactez SUZHOU YIPAI TEXTILE CO., LTD. pour vos projets de tissus outdoor et demandes d’échantillons.",
+      "eyebrow": "CONTACT / SUZHOU, CHINE",
+      "title": "Parlons|matières.",
+      "intro": "Présentez-nous votre projet. Nous pouvons échanger sur les tissus outdoor, les exigences techniques et les échantillons.",
+      "company": "Entreprise",
+      "ctaTitle": "Prêt à développer un tissu ?",
+      "ctaText": "Envoyez les besoins de votre projet via notre formulaire de demande d’échantillons."
+    },
+    "requestSample": {
+      "seoTitle": "Demander des échantillons outdoor | YIPAI Textile",
+      "seoDescription": "Demandez des échantillons et précisez l’application, le poids, la construction et les performances visées.",
+      "eyebrow": "TISSUS YIPAI / DEMANDE D’ÉCHANTILLONS",
+      "title": "Trouvons la bonne|matière.",
+      "intro": "Présentez votre application et vos objectifs. Plus votre demande est détaillée, mieux nous pourrons y répondre.",
+      "quickContact": "Vous préférez un échange rapide ?"
+    },
+    "productDetail": {
+      "eyebrow": "TISSU YIPAI",
+      "overviewEyebrow": "APERÇU PRODUIT",
+      "overviewTitle": "Des performances adaptées à votre projet.",
+      "keyPerformance": "Performances clés",
+      "applications": "Applications recommandées",
+      "specEyebrow": "SPÉCIFICATIONS TECHNIQUES",
+      "specTitle": "Défini selon vos exigences",
+      "specs": [
+        "Composition",
+        "Poids",
+        "Laize utile",
+        "Construction",
+        "Objectif d’imperméabilité",
+        "Objectif de respirabilité",
+        "Finition"
+      ],
+      "toDefine": "À définir pour le projet",
+      "customized": "Les spécifications peuvent être adaptées aux exigences de l’application.",
+      "shareSpec": "Partagez vos objectifs pour étudier les options adaptées.",
+      "pfcContext": "Les options sans PFC permettent d’envisager des finitions déperlantes sans fluor. Déperlance, respirabilité et usage sont à considérer ensemble.",
+      "generalContext": "Partons du vêtement, de son environnement et des objectifs. YIPAI peut étudier les constructions et développements adaptés.",
+      "finishingEyebrow": "FINITION ET ESSAIS",
+      "finishingTitle": "Développer et évaluer selon le besoin.",
+      "finishingText": "Les finitions et essais se définissent selon le vêtement et les objectifs convenus.",
+      "projectLed": "Évaluation par projet",
+      "finishingOptions": "Options de finition",
+      "defineApplication": "Selon l’application",
+      "testMethod": "Méthode d’essai",
+      "agreeProject": "À convenir pour le projet",
+      "acceptance": "Critères d’acceptation",
+      "provideTarget": "Préciser les objectifs",
+      "relatedEyebrow": "POUR ALLER PLUS LOIN",
+      "relatedTitle": "Matières complémentaires",
+      "ctaText": "Présentez l’application, la construction et les performances visées."
+    },
+    "applicationDetail": {
+      "eyebrow": "APPLICATION",
+      "builtEyebrow": "CONÇU POUR L’APPLICATION",
+      "builtTitle": "Des matières adaptées à l’environnement.",
+      "bullets": [
+        "Options imperméables",
+        "Respirabilité et transfert de vapeur",
+        "Résistance à l’abrasion selon l’usage",
+        "Protection coupe-vent et stretch",
+        "Développement de construction et finition"
+      ],
+      "briefEyebrow": "CAHIER DES CHARGES",
+      "briefTitle": "Quel produit développez-vous ?",
+      "briefFields": [
+        "Environnement cible",
+        "Type de vêtement",
+        "Poids visé",
+        "Stretch et mobilité",
+        "Protection climatique",
+        "Couleur et finition"
+      ],
+      "defineTogether": "À définir ensemble",
+      "customizable": "Les spécifications peuvent être adaptées aux exigences de l’application.",
+      "categoriesEyebrow": "CATÉGORIES TEXTILES ADAPTÉES",
+      "categoryTitle": "Découvrir les tissus pour {name}",
+      "ctaTitle": "Un tissu pour {name} ?",
+      "ctaText": "Présentez les performances et la construction visées. Nous étudierons les solutions adaptées.",
+      "sampleButton": "Demander des échantillons {name}",
+      "context": {
+        "ski-wear": "Ski garments may combine technical shell construction with weather protection, breathability, wind protection and mobility. Share the expected conditions, garment zones and low-temperature use context for fabric selection.",
+        "hiking": "Hiking apparel may need to balance weather protection, moisture vapor movement, abrasion requirements and comfort through sustained movement in changing conditions.",
+        "outdoor-jackets": "Outdoor jackets range from light layers to technical shells. Define the intended layering system, weather exposure, hand feel and construction before selecting a fabric.",
+        "outdoor-pants": "Outdoor pants briefs often consider freedom of movement, recovery, abrasion by wear zone and the level of weather protection required.",
+        "technical-apparel": "Technical apparel requirements depend on garment design and intended use. Share target performance, construction, weight and finishing needs to shape material development.",
+        "workwear": "Workwear fabric requirements vary by job, environment and garment. Share the conditions of use, durability priorities and any applicable evaluation requirements."
+      }
+    },
+    "performanceDetail": {
+      "eyebrow": "PERFORMANCE / GUIDE TECHNIQUE",
+      "understandingEyebrow": "COMPRENDRE LA PERFORMANCE",
+      "understandingTitle": "La performance est un système.",
+      "whatToConsider": "Points à considérer",
+      "bodySuffix": "Les couches, les fibres, les finitions et la construction du vêtement influencent le comportement en usage.",
+      "bodyEnd": "Définissez les objectifs et les méthodes d’essai avec votre équipe produit. YIPAI peut étudier les matières adaptées ; aucun résultat précis n’est garanti sans accord et évaluation.",
+      "parametersEyebrow": "PARAMÈTRES DE DÉVELOPPEMENT",
+      "parametersTitle": "Définir l’usage",
+      "parameters": [
+        "Application",
+        "Construction textile",
+        "Performance visée",
+        "Méthode d’essai",
+        "Poids et toucher",
+        "Options de finition"
+      ],
+      "parameterStatus": "À préciser dans le projet",
+      "ctaTitle": "Parlons de vos exigences textiles",
+      "ctaText": "Indiquez l’application, les performances visées et la méthode d’évaluation souhaitée."
+    }
+  },
+  "form": {
+    "name": "Nom *",
+    "company": "Entreprise *",
+    "businessEmail": "E-mail professionnel *",
+    "country": "Pays *",
+    "application": "Application *",
+    "composition": "Composition",
+    "weight": "Poids",
+    "weightPlaceholder": "p. ex. poids ou plage cible",
+    "width": "Laize utile",
+    "waterproof": "Exigence d’imperméabilité",
+    "breathability": "Exigence de respirabilité",
+    "stretch": "Exigence d’élasticité",
+    "finish": "Exigence de finition",
+    "message": "Message",
+    "help": "Comment pouvons-nous vous aider ?",
+    "messagePlaceholder": "Présentez votre projet, ses objectifs de performance ou vos questions.",
+    "consent": "En envoyant ce formulaire, vous autorisez YIPAI Textile à utiliser ces informations pour répondre à votre demande.",
+    "select": "Sélectionner une application",
+    "submitSamples": "Demander des échantillons",
+    "submitInquiry": "Envoyer la demande",
+    "successTitle": "Votre demande est prête.",
+    "successBody": "Votre messagerie devrait s’ouvrir avec les détails du projet. Envoyez le message pour finaliser la demande. Si elle ne s’ouvre pas, écrivez à",
+    "applicationOptions": [
+      "Vêtements de ski",
+      "Randonnée",
+      "Veste outdoor",
+      "Pantalon outdoor",
+      "Vêtements de travail",
+      "Autre"
+    ]
+  },
+  "content": {
+    "products": {
+      "waterproof-breathable": {
+        "name": "Tissu imperméable et respirant",
+        "short": "Une protection contre les intempéries pour les activités outdoor.",
+        "category": "Protection climatique",
+        "features": [
+          "Imperméable",
+          "Respirant",
+          "Coupe-vent"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski wear",
+          "Hiking"
+        ]
+      },
+      "3-layer": {
+        "name": "Tissu imperméable respirant 3 couches",
+        "short": "Une construction trois couches pour les vestes techniques exigeantes.",
+        "category": "Construction 3 couches",
+        "features": [
+          "Imperméable",
+          "Respirant",
+          "Résistant à l’abrasion"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski jackets",
+          "Technical apparel"
+        ]
+      },
+      "2-layer": {
+        "name": "Tissu outdoor 2 couches",
+        "short": "Une protection polyvalente pour les vêtements outdoor et techniques.",
+        "category": "Construction 2 couches",
+        "features": [
+          "Protection climatique",
+          "Options légères",
+          "Finition sur mesure"
+        ],
+        "applications": [
+          "Outdoor jackets",
+          "Hiking",
+          "Workwear"
+        ]
+      },
+      "nylon-4-way-stretch": {
+        "name": "Tissu nylon stretch 4 sens",
+        "short": "Liberté de mouvement, élasticité équilibrée et bonne reprise.",
+        "category": "Tissu outdoor extensible",
+        "features": [
+          "Stretch 4 sens",
+          "Bonne reprise",
+          "Options séchage rapide"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Ski wear"
+        ]
+      },
+      "pfc-free": {
+        "name": "Tissu déperlant sans PFC",
+        "short": "Des finitions déperlantes sans fluor pour les collections outdoor.",
+        "category": "Déperlant",
+        "features": [
+          "DWR sans PFC",
+          "Options respirantes",
+          "Développement sur mesure"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Hiking",
+          "Outdoor apparel"
+        ]
+      },
+      "ski-wear": {
+        "name": "Tissu pour vêtements de ski",
+        "short": "Des tissus fonctionnels pour vestes et pantalons de ski.",
+        "category": "Tissu par application",
+        "features": [
+          "Options imperméables",
+          "Protection coupe-vent",
+          "Résistance à l’abrasion"
+        ],
+        "applications": [
+          "Ski jackets",
+          "Ski pants",
+          "Snow apparel"
+        ]
+      },
+      "quick-dry": {
+        "name": "Tissu nylon stretch à séchage rapide",
+        "short": "Un tissu léger pour les vêtements actifs et pantalons outdoor.",
+        "category": "Gestion de l’humidité",
+        "features": [
+          "Séchage rapide",
+          "Nylon stretch",
+          "Tissu léger"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Technical apparel"
+        ]
+      },
+      "cooling-mesh": {
+        "name": "Maille fraîche à séchage rapide",
+        "short": "Une maille ouverte et respirante pour le sport et les beaux jours.",
+        "category": "Maille rafraîchissante",
+        "features": [
+          "Construction en maille",
+          "Séchage rapide",
+          "Options stretch"
+        ],
+        "applications": [
+          "Sportswear",
+          "Base layers",
+          "Warm-weather apparel"
+        ]
+      },
+      "uv-protection": {
+        "name": "Tissu de protection UV",
+        "short": "Une matière légère pour les vêtements outdoor anti-UV.",
+        "category": "Protection solaire",
+        "features": [
+          "Options légères",
+          "Séchage rapide",
+          "Vêtements outdoor"
+        ],
+        "applications": [
+          "Sun shirts",
+          "Light jackets",
+          "Summer apparel"
+        ]
+      },
+      "cooling-fabric": {
+        "name": "Tissu outdoor effet frais",
+        "short": "Une matière légère pour les chemises et pantalons outdoor d’été.",
+        "category": "Toucher frais",
+        "features": [
+          "Toucher frais",
+          "Options stretch",
+          "Séchage rapide"
+        ],
+        "applications": [
+          "Outdoor shirts",
+          "Hiking pants",
+          "Summer apparel"
+        ]
+      },
+      "flame-retardant": {
+        "name": "Oxford enduit ignifuge",
+        "short": "Un Oxford enduit pour les vêtements de protection et équipements outdoor.",
+        "category": "Tissu de protection",
+        "features": [
+          "Construction Oxford",
+          "Options d’enduction",
+          "Norme d’essai à confirmer"
+        ],
+        "applications": [
+          "Protective apparel",
+          "Rainwear",
+          "Outdoor equipment"
+        ]
+      }
+    },
+    "applications": {
+      "ski-wear": {
+        "name": "Vêtements de ski",
+        "title": "Tissus techniques pour vêtements de ski",
+        "description": "Des solutions pour vestes et pantalons de ski, équilibrant protection climatique, respirabilité, abrasion et liberté de mouvement."
+      },
+      "hiking": {
+        "name": "Randonnée",
+        "title": "Tissus techniques pour la randonnée",
+        "description": "Des constructions pour vestes et pantalons de randonnée, pensées pour la météo changeante, le mouvement et les longues sorties."
+      },
+      "outdoor-jackets": {
+        "name": "Vestes outdoor",
+        "title": "Tissus pour vestes outdoor et shells",
+        "description": "Développez des collections de vestes avec des constructions imperméables, respirantes et coupe-vent adaptées."
+      },
+      "outdoor-pants": {
+        "name": "Pantalons outdoor",
+        "title": "Tissus pour pantalons outdoor",
+        "description": "Développez des pantalons outdoor en tenant compte de l’élasticité, de la reprise, de l’abrasion et de la protection climatique."
+      },
+      "technical-apparel": {
+        "name": "Vêtements techniques",
+        "title": "Solutions textiles pour vêtements techniques",
+        "description": "Découvrez des constructions fonctionnelles et des options de développement pour les vêtements techniques."
+      },
+      "workwear": {
+        "name": "Vêtements de travail",
+        "title": "Tissus fonctionnels pour vêtements de travail",
+        "description": "Des options durables pour le workwear, adaptées à l’environnement et aux exigences du vêtement."
+      }
+    },
+    "performances": {
+      "breathability": {
+        "name": "Respirabilité",
+        "title": "Tissus outdoor hautement respirants",
+        "description": "La respirabilité décrit le transfert de vapeur d’eau à travers un textile et dépend de la construction, de la membrane et des finitions.",
+        "points": [
+          "Transfert de vapeur d’eau",
+          "Choix des couches et constructions",
+          "Développement selon l’application"
+        ]
+      },
+      "waterproof": {
+        "name": "Imperméabilité",
+        "title": "Solutions textiles imperméables",
+        "description": "L’imperméabilité dépend de la construction complète et de l’usage prévu. Définissez les objectifs en amont pour guider le développement.",
+        "points": [
+          "Protection contre les intempéries",
+          "Contexte des coutures et du vêtement",
+          "Essais selon les exigences convenues"
+        ]
+      },
+      "abrasion-resistance": {
+        "name": "Résistance à l’abrasion",
+        "title": "Tissus outdoor résistants à l’abrasion",
+        "description": "Les besoins varient selon les zones du vêtement et l’utilisation. Nous pouvons étudier constructions et essais adaptés à votre projet.",
+        "points": [
+          "Choix des matières",
+          "Exigences propres à l’application",
+          "Essais selon la méthode convenue"
+        ]
+      },
+      "stretch-recovery": {
+        "name": "Élasticité et reprise",
+        "title": "Élasticité et reprise pour le vêtement outdoor",
+        "description": "L’élasticité et la reprise accompagnent le mouvement. La fibre, la construction et la finition façonnent le toucher et le comportement.",
+        "points": [
+          "Options stretch 4 sens",
+          "Reprise élastique",
+          "Toucher et coupe"
+        ]
+      }
+    },
+    "performanceFeatures": [
+      {
+        "title": "High Breathability",
+        "text": "Fabric systems can be developed with moisture vapor movement in mind, based on intended activity and construction."
+      },
+      {
+        "title": "Waterproof Protection",
+        "text": "Waterproof options support shell applications; targets and evaluation methods can be agreed for each brief."
+      },
+      {
+        "title": "Abrasion Resistance",
+        "text": "Select constructions with the intended wear zones and outdoor conditions in mind."
+      },
+      {
+        "title": "Stretch & Recovery",
+        "text": "Stretch options support mobility, with fabric selection guided by fit and recovery requirements."
+      }
+    ],
+    "testingCategories": [
+      "Essai d’imperméabilité",
+      "Essai de respirabilité",
+      "Essai d’abrasion"
+    ],
+    "processSteps": [
+      "Tell Us Your Requirements",
+      "Fabric Recommendation",
+      "Lab Development",
+      "Sample Approval",
+      "Bulk Production"
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "fabrics": "Fabrics",
+    "applications": "Applications",
+    "performance": "Performance",
+    "custom-development": "Custom Development",
+    "testing-quality": "Testing & Quality",
+    "about": "About",
+    "contact": "Contact",
+    "request-sample": "Request Samples",
+    "waterproof-breathable": "Waterproof Breathable",
+    "3-layer": "3-Layer",
+    "2-layer": "2-Layer",
+    "nylon-4-way-stretch": "Nylon 4-Way Stretch",
+    "pfc-free": "PFC-Free",
+    "ski-wear": "Ski Wear",
+    "hiking": "Hiking",
+    "outdoor-jackets": "Outdoor Jackets",
+    "outdoor-pants": "Outdoor Pants",
+    "technical-apparel": "Technical Apparel",
+    "workwear": "Workwear",
+    "breathability": "Breathability",
+    "waterproof": "Waterproof",
+    "abrasion-resistance": "Abrasion Resistance",
+    "stretch-recovery": "Stretch & Recovery"
+  },
+  "seo": {
+    "homeTitle": "Tissus outdoor techniques | YIPAI Textile",
+    "homeDescription": "Tissus outdoor techniques pour le ski, la randonnée et les vêtements fonctionnels. Développons ensemble des matières imperméables, respirantes et extensibles."
+  }
+}

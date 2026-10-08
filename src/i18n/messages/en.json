@@ -1,0 +1,722 @@
+{
+  "navigation": {
+    "home": "Home",
+    "fabrics": "Fabrics",
+    "applications": "Applications",
+    "performance": "Performance",
+    "development": "Custom Development",
+    "testing": "Testing & Quality",
+    "about": "About",
+    "contact": "Contact",
+    "samples": "Request Samples",
+    "language": "Language",
+    "menu": "Menu",
+    "close": "Close",
+    "open": "Open navigation",
+    "mobileNav": "Mobile navigation"
+  },
+  "common": {
+    "home": "Home",
+    "explore": "Explore",
+    "exploreAllFabrics": "Explore all fabrics",
+    "exploreAllApplications": "Explore all applications",
+    "exploreTopic": "Explore topic",
+    "requestSamples": "Request Samples",
+    "contact": "Contact YIPAI",
+    "contactUs": "Contact us",
+    "whatsapp": "WhatsApp",
+    "email": "Email us",
+    "emailLabel": "Email",
+    "company": "Company",
+    "website": "Website",
+    "request": "Request",
+    "sendInquiry": "Send Inquiry",
+    "shareProject": "Share Your Project",
+    "startProject": "Start a Project",
+    "discussDevelopment": "Discuss Development",
+    "discussRequirements": "Discuss Your Requirements",
+    "testingQuality": "Testing & Quality",
+    "backHome": "Back to Home",
+    "ctaEyebrow": "Let’s build something outdoors",
+    "ctaTitle": "Looking for the right fabric for your next outdoor collection?",
+    "ctaText": "Tell us your target performance, construction, weight and application. Our team can recommend suitable fabric solutions.",
+    "ctaRequestText": "Send your project requirements with our dedicated sample request form.",
+    "whatsappAria": "Start a WhatsApp conversation with YIPAI Textile",
+    "whatsappTitle": "Chat with YIPAI on WhatsApp",
+    "footerLine1": "Performance Outdoor Fabrics",
+    "footerLine2": "for Technical Apparel",
+    "footerExplore": "Explore",
+    "footerConnect": "Connect",
+    "footerTagline": "Built for the outdoors.",
+    "arrow": "↗",
+    "or": "or",
+    "notFoundTitle": "Page not found",
+    "notFoundText": "We couldn’t find the page you requested.",
+    "breadcrumb": "Breadcrumb",
+    "organizationDescription": "Performance outdoor fabric manufacturer and integrated textile production company."
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "eyebrow": "PERFORMANCE MATERIALS",
+          "title": "Performance|Outdoor Fabrics",
+          "copy": "Engineered outdoor fabrics for ski wear, hiking apparel, shell jackets and technical clothing.",
+          "alt": "Close-up of a technical outdoor fabric"
+        },
+        {
+          "eyebrow": "TEXTILE PRODUCTION",
+          "title": "From Yarn|to Fabric",
+          "copy": "Explore the processes behind fabric formation and functional finishing.",
+          "alt": "Textile production equipment in a bright workshop"
+        },
+        {
+          "eyebrow": "TESTING & QUALITY",
+          "title": "Tested for|Performance",
+          "copy": "Discuss applicable test methods and target requirements with our team.",
+          "alt": "YIPAI fabric testing laboratory equipment"
+        }
+      ],
+      "pillars": "Waterproof · Breathable · Abrasion Resistant · Stretch",
+      "meta": "YIPAI TEXTILE / PERFORMANCE MATERIALS",
+      "controls": "Choose hero slide",
+      "primary": "Explore Fabrics",
+      "secondary": "Request Samples"
+    },
+    "featured": {
+      "eyebrow": "MATERIAL LIBRARY",
+      "title": "Functional fabrics, clearly organized",
+      "text": "Browse core materials for technical apparel."
+    },
+    "applications": {
+      "eyebrow": "APPLICATIONS",
+      "title": "Start with what you make",
+      "text": "Find fabric directions for the garments in your collection."
+    },
+    "ctaTitle": "Let’s find the right fabric for your next collection.",
+    "ctaText": "Share your garment, target performance and construction requirements with our team.",
+    "development": {
+      "eyebrow": "CUSTOM FABRIC DEVELOPMENT",
+      "title": "From product brief to fabric sample.",
+      "text": "Share your application, construction and performance targets. Work with our team to refine a fabric direction for your collection.",
+      "button": "Start a development project"
+    },
+    "technical": {
+      "eyebrow": "TECHNICAL PERFORMANCE",
+      "title": "Engineered around the requirements.",
+      "text": "Performance depends on fabric construction, finishing and the conditions the garment will face.",
+      "items": [
+        "Waterproof protection",
+        "Breathability",
+        "Abrasion resistance",
+        "Stretch & recovery"
+      ]
+    },
+    "testing": {
+      "eyebrow": "TESTING & QUALITY",
+      "title": "Evaluate against what matters.",
+      "text": "Discuss applicable evaluation methods and target requirements for your product and market.",
+      "button": "Explore testing & quality"
+    },
+    "why": {
+      "eyebrow": "WHY WORK WITH YIPAI",
+      "title": "A practical partner for functional fabrics.",
+      "text": "From fabric recommendations through sampling and production, align the material with the product brief.",
+      "items": [
+        "Application-led fabric recommendations",
+        "Custom performance and construction targets",
+        "Sampling and production coordination",
+        "International B2B fabric supply"
+      ]
+    }
+  },
+  "pages": {
+    "fabrics": {
+      "seoTitle": "Outdoor Fabric Supplier | Technical Fabric Collection",
+      "seoDescription": "Explore YIPAI Textile outdoor fabrics, including waterproof breathable, 2-layer, 3-layer, nylon stretch and PFC-free fabric options.",
+      "heroEyebrow": "FABRIC COLLECTION / FUNCTIONAL TEXTILES",
+      "heroTitle": "Fabric solutions|for every layer.",
+      "heroText": "Browse waterproof, quick-dry, cooling, UV protection and coated fabric options for technical apparel.",
+      "libraryEyebrow": "FABRIC LIBRARY",
+      "libraryTitle": "Explore by fabric type",
+      "libraryText": "Review material surfaces and constructions, then share your target garment and performance needs.",
+      "categoryLinks": [
+        "Weather Protection",
+        "Quick-Dry & Cooling",
+        "Specialty Fabrics"
+      ],
+      "groups": [
+        "Weather Protection",
+        "Quick-Dry & Cooling",
+        "Specialty Fabrics"
+      ],
+      "recommendation": "Need a recommendation? Request samples"
+    },
+    "applications": {
+      "seoTitle": "Outdoor Apparel Fabric Applications",
+      "seoDescription": "Explore functional fabric solutions for ski wear, hiking apparel, outdoor jackets and pants, technical apparel and workwear.",
+      "heroEyebrow": "APPLICATIONS / MATERIAL IN CONTEXT",
+      "heroTitle": "Made for the|way you move.",
+      "heroText": "Explore apparel applications and the fabric features each one calls for.",
+      "sectionEyebrow": "APPAREL APPLICATIONS",
+      "sectionTitle": "Start with the garment",
+      "sectionText": "Choose a product category to explore relevant fabric constructions and finishing options."
+    },
+    "performance": {
+      "seoTitle": "Outdoor Fabric Performance",
+      "seoDescription": "Learn about breathability, waterproof protection, abrasion resistance and stretch recovery for technical outdoor fabrics.",
+      "heroEyebrow": "PERFORMANCE / ENGINEERED BY REQUIREMENT",
+      "heroTitle": "Performance,|with purpose.",
+      "heroText": "Explore the fabric characteristics that shape comfort and protection in technical outdoor apparel.",
+      "sectionEyebrow": "TECHNICAL LIBRARY",
+      "sectionTitle": "Understand the material choices",
+      "sectionText": "Performance outcomes depend on fabric construction, finishing, garment design and the intended use."
+    },
+    "development": {
+      "seoTitle": "Custom Outdoor Fabric Development",
+      "seoDescription": "Develop custom outdoor fabrics with YIPAI Textile. Share application, composition, weight, width, stretch, waterproof, breathability and finishing targets.",
+      "heroEyebrow": "COLLABORATIVE DEVELOPMENT",
+      "heroTitle": "Custom Outdoor|Fabric Development",
+      "heroText": "From your product requirements to a considered fabric direction and sample.",
+      "briefEyebrow": "FROM SPECIFICATION TO PRODUCTION",
+      "briefTitle": "Bring us the brief.|We’ll work from there.",
+      "briefText": "Share as much detail as you have. Our team can discuss fabric recommendations, lab development and sampling against your intended product and target specifications.",
+      "requirements": [
+        "Target application",
+        "Fiber composition",
+        "Weight and usable width",
+        "Stretch and recovery",
+        "Waterproof and breathability targets",
+        "Hand feel and abrasion requirements",
+        "Color and finish"
+      ],
+      "flowEyebrow": "DEVELOPMENT FLOW",
+      "flowTitle": "A clear path to a fabric sample",
+      "steps": [
+        "Requirement",
+        "Recommendation",
+        "Lab Development",
+        "Sample",
+        "Testing",
+        "Bulk Production"
+      ],
+      "projectStatus": "Project-led",
+      "collaborateEyebrow": "HOW WE COLLABORATE",
+      "processTitle": "From Specification to Production",
+      "startEyebrow": "START WITH WHAT YOU KNOW",
+      "startTitle": "Every project begins with a conversation.",
+      "startText": "Some requirements may still be open. Let us know the garment and intended environment, and we can start by understanding the brief.",
+      "ctaTitle": "Have a fabric brief in mind?",
+      "ctaText": "Start with your target application, material direction and performance requirements."
+    },
+    "testing": {
+      "seoTitle": "Testing & Quality",
+      "seoDescription": "Discuss applicable evaluation requirements and testing methods for waterproof, breathable, abrasion resistant and stretch outdoor fabrics.",
+      "heroEyebrow": "TESTING & QUALITY / PROJECT-LED EVALUATION",
+      "heroTitle": "Evaluate against|what matters.",
+      "heroText": "Technical fabrics can be evaluated according to applicable customer requirements and agreed methods.",
+      "approachEyebrow": "AN AGREED APPROACH",
+      "approachTitle": "Start with the requirement.",
+      "approachText": "Test methods and acceptance criteria depend on the product brief, destination market and intended use. Share your applicable requirements during development so evaluation can be planned accordingly.",
+      "disclaimer": "This page describes evaluation categories only. It does not claim a specific certification, test result or compliance status.",
+      "method": "Discuss method",
+      "planEyebrow": "TEST PLAN INPUTS",
+      "faq": [
+        [
+          "Applicable method",
+          "Tell us the test method or standard required by your team or buyer."
+        ],
+        [
+          "Target criteria",
+          "Share performance thresholds and acceptance criteria that apply to your product."
+        ],
+        [
+          "Sample type",
+          "Confirm construction, finish and the sample format needed for evaluation."
+        ],
+        [
+          "Project stage",
+          "Align testing with fabric development, sample approval or production checks."
+        ]
+      ],
+      "ctaTitle": "Have testing requirements to discuss?",
+      "ctaText": "Share applicable methods and target criteria with your fabric inquiry."
+    },
+    "about": {
+      "seoTitle": "About YIPAI Textile",
+      "seoDescription": "Meet YIPAI Textile, a performance outdoor fabric manufacturer and integrated textile production company based in Suzhou, China.",
+      "heroEyebrow": "SUZHOU YIPAI TEXTILE CO., LTD.",
+      "heroTitle": "Materials for|the outdoors.",
+      "heroText": "Performance outdoor fabrics for apparel teams building for demanding environments.",
+      "whoEyebrow": "WHO WE ARE",
+      "whoTitle": "Performance Outdoor Fabrics for Technical Apparel.",
+      "paragraphs": [
+        "YIPAI TEXTILE is a performance outdoor fabric manufacturer and integrated textile production company based in Suzhou, China.",
+        "We work with outdoor apparel brands, garment manufacturers and international fabric buyers to discuss functional materials for ski wear, hiking apparel, shell jackets, outdoor pants and workwear.",
+        "Our work includes waterproof breathable constructions, nylon stretch fabrics, abrasion-oriented options and PFC-free water-repellent finishing strategies. Fabric specifications are developed around each application brief."
+      ],
+      "benefitEyebrow": "A MATERIAL PARTNER",
+      "benefitTitle": "Why Work With YIPAI",
+      "benefitText": "An integrated textile partner for apparel teams developing functional outdoor products.",
+      "benefits": [
+        "Outdoor fabric development",
+        "Functional fabric solutions",
+        "Custom specifications",
+        "Fabric sampling",
+        "Production support",
+        "International B2B supply"
+      ],
+      "benefitCardText": "Discuss a fabric brief with the YIPAI team."
+    },
+    "contact": {
+      "seoTitle": "Contact YIPAI Textile",
+      "seoDescription": "Contact SUZHOU YIPAI TEXTILE CO., LTD. for outdoor fabric inquiries, sample requests and project development.",
+      "eyebrow": "CONTACT / SUZHOU, CHINA",
+      "title": "Let’s talk|materials.",
+      "intro": "Tell us what you are developing. We can discuss outdoor fabric options, technical requirements and sampling.",
+      "company": "SUZHOU YIPAI TEXTILE CO., LTD.",
+      "ctaTitle": "Ready to develop a fabric?",
+      "ctaText": "Send your project requirements with our dedicated sample request form."
+    },
+    "requestSample": {
+      "seoTitle": "Request Outdoor Fabric Samples",
+      "seoDescription": "Request outdoor fabric samples from YIPAI Textile. Share your company, application, composition, weight, width and performance requirements.",
+      "eyebrow": "YIPAI FABRIC / SAMPLE REQUEST",
+      "title": "Find the right|fabric direction.",
+      "intro": "Share your application and target requirements. The more detail you provide, the better we can understand your request.",
+      "quickContact": "Need a quick conversation?"
+    },
+    "productDetail": {
+      "eyebrow": "YIPAI FABRIC",
+      "overviewEyebrow": "PRODUCT OVERVIEW",
+      "overviewTitle": "Performance for your product brief.",
+      "keyPerformance": "Key performance",
+      "applications": "Recommended applications",
+      "specEyebrow": "TECHNICAL SPECIFICATIONS",
+      "specTitle": "Developed to your requirements",
+      "specs": [
+        "Composition",
+        "Weight",
+        "Usable Width",
+        "Construction",
+        "Waterproof Target",
+        "Breathability Target",
+        "Finish"
+      ],
+      "toDefine": "To be defined",
+      "customized": "Available specifications can be customized according to application requirements.",
+      "shareSpec": "Share your target specification and our team can discuss suitable options.",
+      "pfcContext": "PFC-free options can help brands move toward fluorine-free water-repellent finishing strategies. Water repellency, breathability and application requirements should be considered together for each fabric brief.",
+      "generalContext": "Start with your garment, environment and target requirements. YIPAI Textile can discuss suitable fabric constructions and development options for this application.",
+      "finishingEyebrow": "FINISHING & TESTING",
+      "finishingTitle": "Develop and evaluate to the brief.",
+      "finishingText": "Finishing options can be discussed according to the garment application and target requirements. Technical fabric evaluations can use applicable methods agreed during development.",
+      "projectLed": "Project-led evaluation",
+      "finishingOptions": "Finishing options",
+      "defineApplication": "Define by application",
+      "testMethod": "Test method",
+      "agreeProject": "Agree for project",
+      "acceptance": "Acceptance criteria",
+      "provideTarget": "Provide target",
+      "relatedEyebrow": "CONTINUE EXPLORING",
+      "relatedTitle": "Related fabric directions",
+      "ctaText": "Tell us the target application, construction and performance requirements for your project."
+    },
+    "applicationDetail": {
+      "eyebrow": "APPLICATION",
+      "builtEyebrow": "BUILT FOR THE APPLICATION",
+      "builtTitle": "Materials that fit the environment.",
+      "bullets": [
+        "Waterproof protection options",
+        "Breathability and moisture vapor movement",
+        "Abrasion resistance by end use",
+        "Wind protection and stretch options",
+        "Construction and finishing development"
+      ],
+      "briefEyebrow": "DEVELOPMENT BRIEF",
+      "briefTitle": "What are you building?",
+      "briefFields": [
+        "Target environment",
+        "Garment type",
+        "Target weight",
+        "Stretch and mobility",
+        "Weather protection",
+        "Color and finish"
+      ],
+      "defineTogether": "Define together",
+      "customizable": "Available specifications can be customized according to application requirements.",
+      "categoriesEyebrow": "SUITABLE FABRIC CATEGORIES",
+      "categoryTitle": "Explore {name} fabrics",
+      "ctaTitle": "Looking for fabric for {name}?",
+      "ctaText": "Share your target performance and construction. We will help you explore suitable fabric solutions.",
+      "sampleButton": "Request {name} Fabric Samples",
+      "context": {
+        "ski-wear": "Ski garments may combine technical shell construction with weather protection, breathability, wind protection and mobility. Share the expected conditions, garment zones and low-temperature use context for fabric selection.",
+        "hiking": "Hiking apparel may need to balance weather protection, moisture vapor movement, abrasion requirements and comfort through sustained movement in changing conditions.",
+        "outdoor-jackets": "Outdoor jackets range from light layers to technical shells. Define the intended layering system, weather exposure, hand feel and construction before selecting a fabric.",
+        "outdoor-pants": "Outdoor pants briefs often consider freedom of movement, recovery, abrasion by wear zone and the level of weather protection required.",
+        "technical-apparel": "Technical apparel requirements depend on garment design and intended use. Share target performance, construction, weight and finishing needs to shape material development.",
+        "workwear": "Workwear fabric requirements vary by job, environment and garment. Share the conditions of use, durability priorities and any applicable evaluation requirements."
+      }
+    },
+    "performanceDetail": {
+      "eyebrow": "PERFORMANCE / TECHNICAL GUIDE",
+      "understandingEyebrow": "UNDERSTANDING PERFORMANCE",
+      "understandingTitle": "Performance is a system.",
+      "whatToConsider": "What to consider",
+      "bodySuffix": "Fabric layers, fiber selection, finishing and garment construction all influence how a textile performs in use.",
+      "bodyEnd": "During development, define the required targets and applicable evaluation method with your product team. YIPAI can discuss fabric directions against your brief; no specific performance result is implied until agreed and evaluated.",
+      "parametersEyebrow": "DEVELOPMENT PARAMETERS",
+      "parametersTitle": "Define the use case",
+      "parameters": [
+        "Application",
+        "Fabric construction",
+        "Target performance",
+        "Test method",
+        "Weight and hand feel",
+        "Finishing options"
+      ],
+      "parameterStatus": "Set by project brief",
+      "ctaTitle": "Discuss your fabric requirements",
+      "ctaText": "Tell us your application, performance targets and preferred evaluation method."
+    }
+  },
+  "form": {
+    "name": "Name *",
+    "company": "Company *",
+    "businessEmail": "Business Email *",
+    "country": "Country *",
+    "application": "Application *",
+    "composition": "Composition",
+    "weight": "Weight",
+    "weightPlaceholder": "e.g. target weight or range",
+    "width": "Width",
+    "waterproof": "Waterproof Requirement",
+    "breathability": "Breathability Requirement",
+    "stretch": "Stretch Requirement",
+    "finish": "Finish Requirement",
+    "message": "Message",
+    "help": "How can we help?",
+    "messagePlaceholder": "Tell us about your project, target performance or questions.",
+    "consent": "By submitting, you agree that YIPAI Textile may use these details to respond to your inquiry.",
+    "select": "Select an application",
+    "submitSamples": "Request Samples",
+    "submitInquiry": "Send Inquiry",
+    "successTitle": "Your inquiry is ready.",
+    "successBody": "Your email app should open with the project details prepared. Send the email to complete your request. If it did not open, write to",
+    "applicationOptions": [
+      "Ski Wear",
+      "Hiking",
+      "Outdoor Jacket",
+      "Outdoor Pants",
+      "Workwear",
+      "Other"
+    ]
+  },
+  "content": {
+    "products": {
+      "waterproof-breathable": {
+        "name": "Waterproof Breathable Fabric",
+        "short": "Weather protection engineered for active days outdoors.",
+        "category": "Weather protection",
+        "features": [
+          "Waterproof",
+          "Breathable",
+          "Windproof"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski wear",
+          "Hiking"
+        ]
+      },
+      "3-layer": {
+        "name": "3-Layer Waterproof Breathable Fabric",
+        "short": "A protective three-layer construction for demanding shell applications.",
+        "category": "3-layer construction",
+        "features": [
+          "Waterproof",
+          "Breathable",
+          "Abrasion resistant"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski jackets",
+          "Technical apparel"
+        ]
+      },
+      "2-layer": {
+        "name": "2-Layer Outdoor Fabric",
+        "short": "Versatile layered protection for outdoor and technical apparel.",
+        "category": "2-layer construction",
+        "features": [
+          "Weather protection",
+          "Lightweight options",
+          "Custom finishing"
+        ],
+        "applications": [
+          "Outdoor jackets",
+          "Hiking",
+          "Workwear"
+        ]
+      },
+      "nylon-4-way-stretch": {
+        "name": "Nylon 4-Way Stretch Fabric",
+        "short": "Freedom of movement with balanced stretch and recovery.",
+        "category": "Stretch outdoor fabric",
+        "features": [
+          "4-way stretch",
+          "Good recovery",
+          "Quick dry options"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Ski wear"
+        ]
+      },
+      "pfc-free": {
+        "name": "PFC-Free Water Repellent Fabric",
+        "short": "Fluorine-free water-repellent finishing options for outdoor collections.",
+        "category": "Water repellent",
+        "features": [
+          "PFC-free DWR options",
+          "Breathable options",
+          "Custom development"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Hiking",
+          "Outdoor apparel"
+        ]
+      },
+      "ski-wear": {
+        "name": "Ski Wear Fabric",
+        "short": "Functional fabric options developed for ski jackets and pants.",
+        "category": "Application fabric",
+        "features": [
+          "Waterproof options",
+          "Wind protection",
+          "Abrasion resistance"
+        ],
+        "applications": [
+          "Ski jackets",
+          "Ski pants",
+          "Snow apparel"
+        ]
+      },
+      "quick-dry": {
+        "name": "Quick-Dry Nylon Stretch Fabric",
+        "short": "Lightweight woven fabric option for active apparel and outdoor pants.",
+        "category": "Moisture management",
+        "features": [
+          "Quick dry options",
+          "Nylon stretch",
+          "Lightweight woven"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Technical apparel"
+        ]
+      },
+      "cooling-mesh": {
+        "name": "Cooling Quick-Dry Mesh Fabric",
+        "short": "Open mesh construction for breathable sportswear and warm-weather apparel.",
+        "category": "Cooling mesh",
+        "features": [
+          "Mesh construction",
+          "Quick dry options",
+          "Stretch options"
+        ],
+        "applications": [
+          "Sportswear",
+          "Base layers",
+          "Warm-weather apparel"
+        ]
+      },
+      "uv-protection": {
+        "name": "UV Protection Fabric",
+        "short": "Lightweight fabric option for sun-protective outdoor garments.",
+        "category": "Sun protection",
+        "features": [
+          "Lightweight options",
+          "Quick dry options",
+          "Outdoor apparel"
+        ],
+        "applications": [
+          "Sun shirts",
+          "Light jackets",
+          "Summer apparel"
+        ]
+      },
+      "cooling-fabric": {
+        "name": "Cooling Touch Outdoor Fabric",
+        "short": "Lightweight woven option for warm-weather shirts and outdoor pants.",
+        "category": "Cooling touch",
+        "features": [
+          "Cooling touch options",
+          "Stretch options",
+          "Quick dry options"
+        ],
+        "applications": [
+          "Outdoor shirts",
+          "Hiking pants",
+          "Summer apparel"
+        ]
+      },
+      "flame-retardant": {
+        "name": "Flame-Retardant Coated Oxford Fabric",
+        "short": "Coated Oxford fabric option for protective apparel and outdoor equipment.",
+        "category": "Protective fabric",
+        "features": [
+          "Oxford construction",
+          "Coating options",
+          "Confirm applicable test standard"
+        ],
+        "applications": [
+          "Protective apparel",
+          "Rainwear",
+          "Outdoor equipment"
+        ]
+      }
+    },
+    "applications": {
+      "ski-wear": {
+        "name": "Ski Wear",
+        "title": "Performance Fabrics for Ski Wear",
+        "description": "Fabric solutions for ski jackets and pants, balancing weather protection, breathability, abrasion resistance and freedom of movement."
+      },
+      "hiking": {
+        "name": "Hiking",
+        "title": "Technical Fabrics for Hiking Apparel",
+        "description": "Explore fabric constructions for hiking jackets and pants designed around changing weather, active movement and long days outside."
+      },
+      "outdoor-jackets": {
+        "name": "Outdoor Jackets",
+        "title": "Outdoor Jacket & Shell Fabrics",
+        "description": "Build a shell or outdoor jacket collection with suitable waterproof, breathable and wind-resistant fabric constructions."
+      },
+      "outdoor-pants": {
+        "name": "Outdoor Pants",
+        "title": "Outdoor Pants Fabrics",
+        "description": "Develop outdoor pants with fabric options that consider stretch, recovery, abrasion requirements and weather protection."
+      },
+      "technical-apparel": {
+        "name": "Technical Apparel",
+        "title": "Technical Apparel Fabric Solutions",
+        "description": "Explore functional fabric constructions and development options for technical apparel programs."
+      },
+      "workwear": {
+        "name": "Workwear",
+        "title": "Functional Fabrics for Workwear",
+        "description": "Explore durable fabric options for workwear applications, with specifications tailored to the intended environment and garment."
+      }
+    },
+    "performances": {
+      "breathability": {
+        "name": "Breathability",
+        "title": "High Breathability Outdoor Fabrics",
+        "description": "Breathability describes how moisture vapor can move through a fabric system. It helps apparel teams consider comfort during activity and how construction, membrane and finishing work together.",
+        "points": [
+          "Moisture vapor transmission",
+          "Construction and layer selection",
+          "Application-led development"
+        ]
+      },
+      "waterproof": {
+        "name": "Waterproof",
+        "title": "Waterproof Outdoor Fabric Solutions",
+        "description": "Waterproof performance depends on the complete fabric construction and the requirements of the end use. Define targets early to guide material development and evaluation.",
+        "points": [
+          "Weather protection",
+          "Seam and garment context",
+          "Testing against agreed requirements"
+        ]
+      },
+      "abrasion-resistance": {
+        "name": "Abrasion Resistance",
+        "title": "Abrasion Resistant Outdoor Fabrics",
+        "description": "Abrasion requirements vary by garment zone and use. We can discuss fabric constructions and testing approaches that align with your product brief.",
+        "points": [
+          "Material selection",
+          "Application-specific requirements",
+          "Testing by agreed method"
+        ]
+      },
+      "stretch-recovery": {
+        "name": "Stretch & Recovery",
+        "title": "Stretch and Recovery for Outdoor Apparel",
+        "description": "Stretch and recovery help garments move with the wearer. Fiber, construction and finishing choices shape the feel and behavior of a stretch fabric.",
+        "points": [
+          "4-way stretch options",
+          "Recovery considerations",
+          "Hand feel and garment fit"
+        ]
+      }
+    },
+    "performanceFeatures": [
+      {
+        "title": "High Breathability",
+        "text": "Fabric systems can be developed with moisture vapor movement in mind, based on intended activity and construction."
+      },
+      {
+        "title": "Waterproof Protection",
+        "text": "Waterproof options support shell applications; targets and evaluation methods can be agreed for each brief."
+      },
+      {
+        "title": "Abrasion Resistance",
+        "text": "Select constructions with the intended wear zones and outdoor conditions in mind."
+      },
+      {
+        "title": "Stretch & Recovery",
+        "text": "Stretch options support mobility, with fabric selection guided by fit and recovery requirements."
+      }
+    ],
+    "testingCategories": [
+      "Waterproof Testing",
+      "Breathability Testing",
+      "Abrasion Testing",
+      "Stretch Testing",
+      "Color Fastness",
+      "Dimensional Stability"
+    ],
+    "processSteps": [
+      "Tell Us Your Requirements",
+      "Fabric Recommendation",
+      "Lab Development",
+      "Sample Approval",
+      "Bulk Production"
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "fabrics": "Fabrics",
+    "applications": "Applications",
+    "performance": "Performance",
+    "custom-development": "Custom Development",
+    "testing-quality": "Testing & Quality",
+    "about": "About",
+    "contact": "Contact",
+    "request-sample": "Request Samples",
+    "waterproof-breathable": "Waterproof Breathable",
+    "3-layer": "3-Layer",
+    "2-layer": "2-Layer",
+    "nylon-4-way-stretch": "Nylon 4-Way Stretch",
+    "pfc-free": "PFC-Free",
+    "ski-wear": "Ski Wear",
+    "hiking": "Hiking",
+    "outdoor-jackets": "Outdoor Jackets",
+    "outdoor-pants": "Outdoor Pants",
+    "technical-apparel": "Technical Apparel",
+    "workwear": "Workwear",
+    "breathability": "Breathability",
+    "waterproof": "Waterproof",
+    "abrasion-resistance": "Abrasion Resistance",
+    "stretch-recovery": "Stretch & Recovery"
+  },
+  "seo": {
+    "homeTitle": "Performance Outdoor Fabrics for Technical Apparel | YIPAI Textile",
+    "homeDescription": "Performance outdoor fabrics for ski, hiking, shell and technical apparel. Discuss waterproof breathable, nylon stretch and functional fabric development with YIPAI Textile."
+  }
+}

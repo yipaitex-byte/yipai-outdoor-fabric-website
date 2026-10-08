@@ -1,0 +1,718 @@
+{
+  "navigation": {
+    "home": "首页",
+    "fabrics": "面料",
+    "applications": "应用领域",
+    "performance": "性能",
+    "development": "定制开发",
+    "testing": "测试与质量",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "samples": "申请样品",
+    "language": "语言",
+    "menu": "菜单",
+    "close": "关闭",
+    "open": "打开导航",
+    "mobileNav": "移动导航"
+  },
+  "common": {
+    "home": "首页",
+    "explore": "探索",
+    "exploreAllFabrics": "浏览全部面料",
+    "exploreAllApplications": "浏览全部应用",
+    "exploreTopic": "了解详情",
+    "requestSamples": "申请样品",
+    "contact": "联系 YIPAI",
+    "contactUs": "联系我们",
+    "whatsapp": "WhatsApp",
+    "email": "发送邮件",
+    "emailLabel": "邮箱",
+    "company": "公司",
+    "website": "网站",
+    "request": "申请",
+    "sendInquiry": "发送询盘",
+    "shareProject": "提交项目需求",
+    "startProject": "开始项目",
+    "discussDevelopment": "洽谈开发",
+    "discussRequirements": "沟通需求",
+    "testingQuality": "测试与质量",
+    "backHome": "Back to Home",
+    "ctaEyebrow": "携手开发户外面料",
+    "ctaTitle": "为您的下一季系列找到合适的面料。",
+    "ctaText": "请告诉我们服装品类、目标性能和面料结构，我们将协助推荐合适的方案。",
+    "ctaRequestText": "Send your project requirements with our dedicated sample request form.",
+    "whatsappAria": "通过 WhatsApp 联系 YIPAI Textile",
+    "whatsappTitle": "在 WhatsApp 上联系 YIPAI",
+    "footerLine1": "户外功能面料",
+    "footerLine2": "适用于技术服装",
+    "footerExplore": "浏览",
+    "footerConnect": "联系",
+    "footerTagline": "为户外场景而开发。",
+    "arrow": "↗",
+    "notFoundTitle": "页面未找到",
+    "notFoundText": "您访问的页面不存在。",
+    "breadcrumb": "面包屑导航",
+    "organizationDescription": "高性能户外面料制造商及一体化纺织生产企业。"
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "eyebrow": "高性能材料",
+          "title": "户外功能|面料",
+          "copy": "为滑雪、徒步、冲锋衣及技术服装开发户外功能面料。",
+          "alt": "Close-up of a technical outdoor fabric"
+        },
+        {
+          "eyebrow": "纺织生产",
+          "title": "从纱线|到面料",
+          "copy": "了解面料成形与功能性后整理的生产流程。",
+          "alt": "Textile production equipment in a bright workshop"
+        },
+        {
+          "eyebrow": "测试与质量",
+          "title": "以测试验证|性能",
+          "copy": "欢迎与我们沟通适用的测试方法和性能目标。",
+          "alt": "YIPAI fabric testing laboratory equipment"
+        }
+      ],
+      "pillars": "防水 · 透湿 · 耐磨 · 弹力",
+      "meta": "YIPAI TEXTILE / PERFORMANCE MATERIALS",
+      "controls": "Choose hero slide",
+      "primary": "浏览面料",
+      "secondary": "申请样品"
+    },
+    "featured": {
+      "eyebrow": "面料库",
+      "title": "功能面料，清晰分类",
+      "text": "浏览适用于技术服装的核心面料。"
+    },
+    "applications": {
+      "eyebrow": "应用领域",
+      "title": "从您的产品出发",
+      "text": "为您的服装系列寻找合适的面料方向。"
+    },
+    "ctaTitle": "为您的下一季系列找到合适的面料。",
+    "ctaText": "请告诉我们服装品类、目标性能和面料结构。",
+    "development": {
+      "eyebrow": "定制面料开发",
+      "title": "从产品需求到面料样品。",
+      "text": "提交应用场景、面料结构和目标性能，与我们共同完善适合您系列产品的面料方案。",
+      "button": "启动开发项目"
+    },
+    "technical": {
+      "eyebrow": "技术性能",
+      "title": "围绕实际需求开发。",
+      "text": "面料表现取决于结构、后整理以及服装的使用环境。",
+      "items": [
+        "防护性能",
+        "透湿性",
+        "耐磨性",
+        "弹力与回复"
+      ]
+    },
+    "testing": {
+      "eyebrow": "测试与质量",
+      "title": "围绕关键指标开展评估。",
+      "text": "沟通适用于产品和目标市场的评估方法与性能要求。",
+      "button": "了解测试与质量"
+    },
+    "why": {
+      "eyebrow": "选择 YIPAI 的理由",
+      "title": "值得信赖的功能面料合作伙伴。",
+      "text": "从面料建议、打样到生产，围绕产品需求协同推进。",
+      "items": [
+        "按应用场景推荐面料",
+        "支持定制性能与结构目标",
+        "协同推进打样与生产",
+        "面向国际市场的B2B面料供应"
+      ]
+    }
+  },
+  "pages": {
+    "fabrics": {
+      "seoTitle": "户外功能面料与技术面料系列",
+      "seoDescription": "了解防水透湿、双层、三层、尼龙弹力及无氟防泼水面料。",
+      "heroEyebrow": "面料系列 / 功能性纺织品",
+      "heroTitle": "为每一层|提供面料方案。",
+      "heroText": "浏览适用于技术服装的防水、速干、凉感、防紫外线及涂层面料。",
+      "libraryEyebrow": "面料库",
+      "libraryTitle": "按面料类型浏览",
+      "libraryText": "了解面料表面与结构，并告诉我们目标服装和性能需求。",
+      "categoryLinks": [
+        "防护系列",
+        "速干与凉感",
+        "特色面料"
+      ],
+      "groups": [
+        "防护系列",
+        "速干与凉感",
+        "特色面料"
+      ],
+      "recommendation": "需要推荐？申请样品"
+    },
+    "applications": {
+      "seoTitle": "户外服装面料应用领域",
+      "seoDescription": "面向滑雪服、徒步服、户外夹克、户外裤及工装的功能面料方案。",
+      "heroEyebrow": "应用领域 / 面料与场景",
+      "heroTitle": "为行动|而设计。",
+      "heroText": "了解不同服装应用，以及对应的面料性能需求。",
+      "sectionEyebrow": "服装应用",
+      "sectionTitle": "从服装品类出发",
+      "sectionText": "选择产品类别，了解适用的面料结构与后整理方案。"
+    },
+    "performance": {
+      "seoTitle": "户外面料性能",
+      "seoDescription": "了解技术户外面料的透湿、防水、耐磨及弹力恢复性能。",
+      "heroEyebrow": "性能 / 按需求开发",
+      "heroTitle": "性能表现，|服务于具体用途。",
+      "heroText": "了解影响技术户外服装舒适性与防护性的面料特性。",
+      "sectionEyebrow": "技术面料知识",
+      "sectionTitle": "了解面料性能选择",
+      "sectionText": "面料表现取决于结构、后整理、服装设计和实际用途。"
+    },
+    "development": {
+      "seoTitle": "户外面料定制开发 | YIPAI Textile",
+      "seoDescription": "根据应用、成分、克重、结构和性能目标开发户外功能面料。",
+      "heroEyebrow": "协同开发",
+      "heroTitle": "户外面料|定制开发",
+      "heroText": "从产品要求出发，形成合适的面料方向与样品。",
+      "briefEyebrow": "从规格到生产",
+      "briefTitle": "告诉我们您的需求。|我们一起推进。",
+      "briefText": "请提供项目要求，我们可根据产品用途和性能目标讨论面料建议、实验室开发与样品。",
+      "requirements": [
+        "目标应用",
+        "纤维成分",
+        "克重与有效门幅",
+        "弹力与回复",
+        "防水与透湿目标",
+        "手感与耐磨要求",
+        "颜色与后整理"
+      ],
+      "flowEyebrow": "开发流程",
+      "flowTitle": "清晰推进至面料样品",
+      "steps": [
+        "需求沟通",
+        "面料建议",
+        "实验室开发",
+        "样品",
+        "测试",
+        "批量生产"
+      ],
+      "projectStatus": "按项目推进",
+      "collaborateEyebrow": "协同方式",
+      "processTitle": "从规格到生产",
+      "startEyebrow": "从已知需求开始",
+      "startTitle": "每个项目都从沟通开始。",
+      "startText": "部分指标可能尚未确定。告诉我们服装品类和使用环境，我们可以先一起梳理需求。",
+      "ctaTitle": "已有面料开发需求？",
+      "ctaText": "请从应用场景、面料方向和性能要求开始沟通。"
+    },
+    "testing": {
+      "seoTitle": "技术面料测试与质量 | YIPAI Textile",
+      "seoDescription": "沟通防水、透湿、耐磨及弹力面料适用的测试方法与评估要求。",
+      "heroEyebrow": "测试与质量 / 按项目评估",
+      "heroTitle": "围绕关键要求|开展评估。",
+      "heroText": "技术面料可根据适用的客户要求及双方确认的方法进行评估。",
+      "approachEyebrow": "共同确认评估方案",
+      "approachTitle": "从具体要求出发。",
+      "approachText": "测试方法和验收标准取决于产品需求、目标市场及使用场景。开发过程中请提供适用要求，以便规划评估。",
+      "disclaimer": "本页仅介绍评估类别，不代表任何特定认证、测试结果或合规声明。",
+      "method": "沟通测试方法",
+      "planEyebrow": "测试计划所需信息",
+      "faq": [
+        [
+          "适用方法",
+          "请提供团队或客户要求的测试方法或标准。"
+        ],
+        [
+          "目标指标",
+          "请分享产品适用的性能阈值与验收标准。"
+        ],
+        [
+          "样品类型",
+          "确认结构、后整理及评估所需的样品形式。"
+        ],
+        [
+          "项目阶段",
+          "结合面料开发、样品确认或生产检验安排测试。"
+        ]
+      ],
+      "ctaTitle": "有测试要求需要沟通？",
+      "ctaText": "提交面料询盘时请附上适用方法和目标指标。"
+    },
+    "about": {
+      "seoTitle": "关于 YIPAI Textile | 户外功能面料",
+      "seoDescription": "了解位于中国苏州的 YIPAI Textile，以及面向户外与技术服装的功能面料方案。",
+      "heroEyebrow": "SUZHOU YIPAI TEXTILE CO., LTD.",
+      "heroTitle": "为户外场景|提供功能面料。",
+      "heroText": "为开发高要求户外服装的团队提供功能性面料。",
+      "whoEyebrow": "关于我们",
+      "whoTitle": "专注技术服装的户外功能面料。",
+      "paragraphs": [
+        "YIPAI TEXTILE 是一家位于中国苏州的户外功能面料制造商及综合纺织合作伙伴。",
+        "我们与户外品牌、服装制造商和国际面料采购商合作，为滑雪服、徒步服、冲锋衣、户外裤及工装探讨功能性材料方案。",
+        "产品方向涵盖防水透湿结构、尼龙弹力面料、耐磨方案及无氟防泼水整理。面料规格围绕具体应用需求制定。"
+      ],
+      "benefitEyebrow": "面料合作伙伴",
+      "benefitTitle": "为什么选择 YIPAI？",
+      "benefitText": "为功能户外产品开发团队提供一体化纺织合作支持。",
+      "benefits": [
+        "户外面料开发",
+        "功能面料方案",
+        "定制规格",
+        "面料打样",
+        "生产协同",
+        "国际 B2B 供应"
+      ],
+      "benefitCardText": "欢迎与 YIPAI 团队沟通您的面料需求。"
+    },
+    "contact": {
+      "seoTitle": "联系 YIPAI Textile",
+      "seoDescription": "联系 SUZHOU YIPAI TEXTILE CO., LTD.，咨询户外面料、样品及项目开发。",
+      "eyebrow": "联系我们 / 中国苏州",
+      "title": "聊聊您的|面料需求。",
+      "intro": "告诉我们您正在开发什么产品。我们可以沟通户外面料选择、技术要求与样品需求。",
+      "company": "公司",
+      "ctaTitle": "准备开始面料开发了吗？",
+      "ctaText": "请通过样品申请表提交项目需求。"
+    },
+    "requestSample": {
+      "seoTitle": "申请户外面料样品 | YIPAI Textile",
+      "seoDescription": "申请面料样品并提供应用、克重、结构和目标性能信息。",
+      "eyebrow": "YIPAI 面料 / 样品申请",
+      "title": "一起寻找合适的|面料方案。",
+      "intro": "请介绍应用场景和目标性能。信息越完整，我们越能准确理解您的需求。",
+      "quickContact": "需要直接沟通？"
+    },
+    "productDetail": {
+      "eyebrow": "YIPAI 面料",
+      "overviewEyebrow": "产品概览",
+      "overviewTitle": "围绕产品需求实现性能目标。",
+      "keyPerformance": "核心性能",
+      "applications": "适用领域",
+      "specEyebrow": "技术规格",
+      "specTitle": "根据需求开发",
+      "specs": [
+        "成分",
+        "克重",
+        "有效门幅",
+        "结构",
+        "防水目标",
+        "透湿目标",
+        "后整理"
+      ],
+      "toDefine": "按项目确认",
+      "customized": "可根据应用需求调整规格。",
+      "shareSpec": "请提供目标规格，以便沟通合适的面料方案。",
+      "pfcContext": "无PFC方案可用于探索无氟防泼水整理。需要结合防泼水、透湿及具体用途综合考虑。",
+      "generalContext": "从服装品类、使用环境和目标要求出发，沟通适用的面料结构与开发方案。",
+      "finishingEyebrow": "后整理与测试",
+      "finishingTitle": "围绕需求开展开发与评估。",
+      "finishingText": "根据服装应用和项目目标沟通后整理方案及评估方法。",
+      "projectLed": "按项目评估",
+      "finishingOptions": "后整理方案",
+      "defineApplication": "结合应用确定",
+      "testMethod": "测试方法",
+      "agreeProject": "项目协商确认",
+      "acceptance": "验收标准",
+      "provideTarget": "请提供目标",
+      "relatedEyebrow": "继续浏览",
+      "relatedTitle": "相关面料方向",
+      "ctaText": "请介绍项目应用、面料结构和目标性能。"
+    },
+    "applicationDetail": {
+      "eyebrow": "应用领域",
+      "builtEyebrow": "为具体应用开发",
+      "builtTitle": "面料与使用环境相匹配。",
+      "bullets": [
+        "防水方案",
+        "透湿与水汽传递",
+        "按用途考虑耐磨性",
+        "防风与弹力选择",
+        "结构与后整理开发"
+      ],
+      "briefEyebrow": "开发需求",
+      "briefTitle": "您正在开发什么产品？",
+      "briefFields": [
+        "目标使用环境",
+        "服装品类",
+        "目标克重",
+        "弹力与活动性",
+        "天气防护",
+        "颜色与后整理"
+      ],
+      "defineTogether": "共同确认",
+      "customizable": "规格可根据应用需求调整。",
+      "categoriesEyebrow": "适用面料分类",
+      "categoryTitle": "浏览{name}面料",
+      "ctaTitle": "为{name}寻找面料？",
+      "ctaText": "请分享目标性能与结构需求，我们将协助探索合适方案。",
+      "sampleButton": "申请{name}面料样品",
+      "context": {
+        "ski-wear": "Ski garments may combine technical shell construction with weather protection, breathability, wind protection and mobility. Share the expected conditions, garment zones and low-temperature use context for fabric selection.",
+        "hiking": "Hiking apparel may need to balance weather protection, moisture vapor movement, abrasion requirements and comfort through sustained movement in changing conditions.",
+        "outdoor-jackets": "Outdoor jackets range from light layers to technical shells. Define the intended layering system, weather exposure, hand feel and construction before selecting a fabric.",
+        "outdoor-pants": "Outdoor pants briefs often consider freedom of movement, recovery, abrasion by wear zone and the level of weather protection required.",
+        "technical-apparel": "Technical apparel requirements depend on garment design and intended use. Share target performance, construction, weight and finishing needs to shape material development.",
+        "workwear": "Workwear fabric requirements vary by job, environment and garment. Share the conditions of use, durability priorities and any applicable evaluation requirements."
+      }
+    },
+    "performanceDetail": {
+      "eyebrow": "性能 / 技术指南",
+      "understandingEyebrow": "了解面料性能",
+      "understandingTitle": "性能来自系统协同。",
+      "whatToConsider": "重点考虑因素",
+      "bodySuffix": "面料层数、纤维选择、后整理和服装结构都会影响实际表现。",
+      "bodyEnd": "开发过程中请与产品团队确认目标及测试方法。YIPAI 可根据需求讨论面料方向；具体结果需经双方确认并评估。",
+      "parametersEyebrow": "开发参数",
+      "parametersTitle": "明确使用场景",
+      "parameters": [
+        "应用领域",
+        "面料结构",
+        "目标性能",
+        "测试方法",
+        "克重与手感",
+        "后整理方案"
+      ],
+      "parameterStatus": "根据项目需求确定",
+      "ctaTitle": "沟通面料需求",
+      "ctaText": "请提供应用、性能目标和偏好的评估方法。"
+    }
+  },
+  "form": {
+    "name": "姓名 *",
+    "company": "公司名称 *",
+    "businessEmail": "商务邮箱 *",
+    "country": "国家 *",
+    "application": "应用领域 *",
+    "composition": "成分",
+    "weight": "克重",
+    "weightPlaceholder": "例如目标克重或范围",
+    "width": "有效门幅",
+    "waterproof": "防水要求",
+    "breathability": "透湿要求",
+    "stretch": "弹力要求",
+    "finish": "后整理要求",
+    "message": "留言",
+    "help": "我们可以如何协助？",
+    "messagePlaceholder": "请介绍项目、目标性能或您的问题。",
+    "consent": "提交即表示您同意 YIPAI Textile 使用这些信息回复您的询盘。",
+    "select": "选择应用领域",
+    "submitSamples": "申请样品",
+    "submitInquiry": "发送询盘",
+    "successTitle": "您的询盘信息已准备好。",
+    "successBody": "邮件应用将打开并附上项目详情。发送邮件即可完成申请。如未能打开，请发送邮件至",
+    "applicationOptions": [
+      "滑雪服",
+      "户外徒步",
+      "户外夹克",
+      "户外裤",
+      "工装",
+      "其他"
+    ]
+  },
+  "content": {
+    "products": {
+      "waterproof-breathable": {
+        "name": "防水透湿面料",
+        "short": "为户外活动提供天气防护。",
+        "category": "防护面料",
+        "features": [
+          "防水",
+          "透湿",
+          "防风"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski wear",
+          "Hiking"
+        ]
+      },
+      "3-layer": {
+        "name": "三层防水透湿面料",
+        "short": "适用于高性能冲锋衣的三层结构。",
+        "category": "三层结构",
+        "features": [
+          "防水",
+          "透湿",
+          "耐磨"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Ski jackets",
+          "Technical apparel"
+        ]
+      },
+      "2-layer": {
+        "name": "双层户外面料",
+        "short": "适用于户外与技术服装的多用途防护结构。",
+        "category": "双层结构",
+        "features": [
+          "天气防护",
+          "轻量选择",
+          "定制后整理"
+        ],
+        "applications": [
+          "Outdoor jackets",
+          "Hiking",
+          "Workwear"
+        ]
+      },
+      "nylon-4-way-stretch": {
+        "name": "尼龙四面弹面料",
+        "short": "兼顾活动自由度、弹性与回复性能。",
+        "category": "户外弹力面料",
+        "features": [
+          "四面弹",
+          "回复性好",
+          "可选速干"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Ski wear"
+        ]
+      },
+      "pfc-free": {
+        "name": "无氟防泼水面料",
+        "short": "适用于户外系列的无氟防泼水整理方案。",
+        "category": "防泼水面料",
+        "features": [
+          "无PFC DWR方案",
+          "可选透湿",
+          "支持定制开发"
+        ],
+        "applications": [
+          "Shell jackets",
+          "Hiking",
+          "Outdoor apparel"
+        ]
+      },
+      "ski-wear": {
+        "name": "滑雪服面料",
+        "short": "适用于滑雪夹克和滑雪裤的功能面料。",
+        "category": "应用面料",
+        "features": [
+          "可选防水",
+          "防风",
+          "耐磨"
+        ],
+        "applications": [
+          "Ski jackets",
+          "Ski pants",
+          "Snow apparel"
+        ]
+      },
+      "quick-dry": {
+        "name": "速干尼龙弹力面料",
+        "short": "适用于运动服和户外裤的轻量梭织面料。",
+        "category": "湿度管理",
+        "features": [
+          "速干",
+          "尼龙弹力",
+          "轻量梭织"
+        ],
+        "applications": [
+          "Outdoor pants",
+          "Hiking",
+          "Technical apparel"
+        ]
+      },
+      "cooling-mesh": {
+        "name": "凉感速干网眼面料",
+        "short": "开放式网眼结构，适用于透气运动服和夏季服装。",
+        "category": "凉感网眼",
+        "features": [
+          "网眼结构",
+          "可选速干",
+          "可选弹力"
+        ],
+        "applications": [
+          "Sportswear",
+          "Base layers",
+          "Warm-weather apparel"
+        ]
+      },
+      "uv-protection": {
+        "name": "防紫外线面料",
+        "short": "适用于户外防晒服装的轻量面料。",
+        "category": "防晒面料",
+        "features": [
+          "轻量选择",
+          "可选速干",
+          "户外服装"
+        ],
+        "applications": [
+          "Sun shirts",
+          "Light jackets",
+          "Summer apparel"
+        ]
+      },
+      "cooling-fabric": {
+        "name": "凉感户外面料",
+        "short": "适用于夏季户外衬衫和裤装的轻量梭织面料。",
+        "category": "凉感面料",
+        "features": [
+          "凉感触感",
+          "可选弹力",
+          "可选速干"
+        ],
+        "applications": [
+          "Outdoor shirts",
+          "Hiking pants",
+          "Summer apparel"
+        ]
+      },
+      "flame-retardant": {
+        "name": "阻燃涂层牛津布",
+        "short": "适用于防护服装与户外装备的涂层牛津布。",
+        "category": "防护面料",
+        "features": [
+          "牛津结构",
+          "涂层选择",
+          "确认适用测试标准"
+        ],
+        "applications": [
+          "Protective apparel",
+          "Rainwear",
+          "Outdoor equipment"
+        ]
+      }
+    },
+    "applications": {
+      "ski-wear": {
+        "name": "滑雪服",
+        "title": "滑雪服功能面料",
+        "description": "面向滑雪夹克与滑雪裤，兼顾天气防护、透湿、耐磨与活动自由度。"
+      },
+      "hiking": {
+        "name": "户外徒步",
+        "title": "徒步服装技术面料",
+        "description": "适用于徒步夹克与裤装，针对多变天气、持续运动和长时间户外活动开发。"
+      },
+      "outdoor-jackets": {
+        "name": "户外夹克",
+        "title": "户外夹克与冲锋衣面料",
+        "description": "为户外夹克系列匹配防水、透湿及防风面料结构。"
+      },
+      "outdoor-pants": {
+        "name": "户外裤",
+        "title": "户外裤装面料",
+        "description": "开发户外裤装时兼顾弹力、回复、耐磨与天气防护需求。"
+      },
+      "technical-apparel": {
+        "name": "技术服装",
+        "title": "技术服装面料方案",
+        "description": "了解适用于技术服装项目的功能结构与开发方向。"
+      },
+      "workwear": {
+        "name": "工装",
+        "title": "工装功能面料",
+        "description": "面向工装应用提供耐用面料选择，并结合工作环境与服装要求制定规格。"
+      }
+    },
+    "performances": {
+      "breathability": {
+        "name": "透湿性",
+        "title": "高透湿户外面料",
+        "description": "透湿性描述水汽通过面料系统的能力，受面料结构、膜层和后整理共同影响。",
+        "points": [
+          "水汽传递",
+          "结构与层数选择",
+          "按应用需求开发"
+        ]
+      },
+      "waterproof": {
+        "name": "防水性",
+        "title": "户外防水面料方案",
+        "description": "防水表现取决于完整面料结构和最终用途。尽早确认目标有助于面料开发与评估。",
+        "points": [
+          "天气防护",
+          "缝线与服装应用场景",
+          "按双方确认要求测试"
+        ]
+      },
+      "abrasion-resistance": {
+        "name": "耐磨性",
+        "title": "耐磨户外面料",
+        "description": "不同服装部位和使用方式对应不同耐磨要求，可结合产品需求讨论面料结构与测试方法。",
+        "points": [
+          "材料选择",
+          "针对应用确定要求",
+          "按约定方法测试"
+        ]
+      },
+      "stretch-recovery": {
+        "name": "弹力与回复",
+        "title": "户外服装的弹力与回复",
+        "description": "弹力与回复帮助服装适应身体活动。纤维、结构及后整理会影响面料手感和表现。",
+        "points": [
+          "四面弹方案",
+          "弹性回复",
+          "手感与服装版型"
+        ]
+      }
+    },
+    "performanceFeatures": [
+      {
+        "title": "High Breathability",
+        "text": "Fabric systems can be developed with moisture vapor movement in mind, based on intended activity and construction."
+      },
+      {
+        "title": "Waterproof Protection",
+        "text": "Waterproof options support shell applications; targets and evaluation methods can be agreed for each brief."
+      },
+      {
+        "title": "Abrasion Resistance",
+        "text": "Select constructions with the intended wear zones and outdoor conditions in mind."
+      },
+      {
+        "title": "Stretch & Recovery",
+        "text": "Stretch options support mobility, with fabric selection guided by fit and recovery requirements."
+      }
+    ],
+    "testingCategories": [
+      "防水测试",
+      "透湿测试",
+      "耐磨测试"
+    ],
+    "processSteps": [
+      "Tell Us Your Requirements",
+      "Fabric Recommendation",
+      "Lab Development",
+      "Sample Approval",
+      "Bulk Production"
+    ]
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "fabrics": "Fabrics",
+    "applications": "Applications",
+    "performance": "Performance",
+    "custom-development": "Custom Development",
+    "testing-quality": "Testing & Quality",
+    "about": "About",
+    "contact": "Contact",
+    "request-sample": "Request Samples",
+    "waterproof-breathable": "Waterproof Breathable",
+    "3-layer": "3-Layer",
+    "2-layer": "2-Layer",
+    "nylon-4-way-stretch": "Nylon 4-Way Stretch",
+    "pfc-free": "PFC-Free",
+    "ski-wear": "Ski Wear",
+    "hiking": "Hiking",
+    "outdoor-jackets": "Outdoor Jackets",
+    "outdoor-pants": "Outdoor Pants",
+    "technical-apparel": "Technical Apparel",
+    "workwear": "Workwear",
+    "breathability": "Breathability",
+    "waterproof": "Waterproof",
+    "abrasion-resistance": "Abrasion Resistance",
+    "stretch-recovery": "Stretch & Recovery"
+  },
+  "seo": {
+    "homeTitle": "户外功能面料与技术服装面料 | YIPAI Textile",
+    "homeDescription": "为滑雪、徒步和技术服装开发户外功能面料，涵盖防水透湿、尼龙弹力及定制面料方案。"
+  }
+}
